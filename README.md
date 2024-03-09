@@ -69,8 +69,6 @@ Acceptance criteria for the last of these user stories may include:
 * The "Like" button should be visible on the video player interface, and clicking it should increment the video likes.
 
 
-
-
 ## Activity 3 -  Choose a language for community code
 
 The Community Code project requires that you spend time writing code in service of an open source community. The code you write need not necessarily be shared with that community, but you should write code with the community in mind. What code you write will be determined by course content, community needs, and your choice of programming language.
@@ -79,6 +77,8 @@ For this task you should spend time thinking about what language you might like 
 
 ### Outcome
 
-The language I selected for the community code project is Javascript. Although I do not have much experience in this language but as, I am learning Javascript as one of my courses this semester, I can work on it with the fundamental knowledge and by learning more from the course side by side.
+The language I selected for the community code project is Javascript. Although I do not have much experience in this language but as, I am learning Javascript as one of my courses this semester, I can work on it with the fundamental knowledge. It's a practical way for me to apply what I'm learning in class and get hands-on experience with JavaScript by working on this project.
 
+## Activity 4 - Star Github topics repositories of interest
 
+Explore github and give stars is a new practice, I have learnt to gain the knowledge regarding different open source communities and their latest trends. Also, give stars to the interesting topic will be useful for us in future to stay updated.
