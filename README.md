@@ -46,7 +46,24 @@ https://careerkarma.com/blog/who-uses-lua/
 
 https://www.lua.org/about.html
 
+
+
 ## Activity 2 -  Write a user story
+
+For my app user story, I choose YouTube. It is a popular online video-sharing platform where users can upload, share, and view videos. It offers a diverse range of content, including music videos, tutorials, vlogs, and more. I use this app regularly for education and entertainment purpose.
+
+* "As a user, I can watch videos on the platform."
+* "As a user, I can search for specific videos using the search feature."
+* "As a user, I can subscribe to channels I enjoy for regular updates."
+* "As a user, I can like and comment on videos to engage with content creators."
+
+Acceptance criteria for the last of these user stories may include:
+
+* The video player should load smoothly and play videos without significant buffering delays.
+* The search feature should provide accurate results based on the user's entered search query.
+* The channel subscription feature should be straightforward and easily accessible.
+* The "Like" button should be visible on the video player interface, and clicking it should increment the video likes.
+
 
 
 
