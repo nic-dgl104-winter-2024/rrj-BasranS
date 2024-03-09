@@ -3,7 +3,7 @@
 
 ## Week 8 ( Feb. 26) 
 
-### Research a new language (Processing, Haskell or Lua)
+## Activity 1 - Research a new language (Processing, Haskell or Lua)
 
 This activity conducting research on either Processing, Haskell, or Lua and responding to the following questions.
 
@@ -45,3 +45,13 @@ These sources offer complete and well-organized content to make learning Lua eas
 https://careerkarma.com/blog/who-uses-lua/
 
 https://www.lua.org/about.html
+
+## Activity 2 -  Write a user story
+
+
+
+## Activity 3 -  Choose a language for community code
+
+The language I selected for the community code project is Javascript. Although I do not have much experience in this language but as, I am learning Javascript as one of my courses this semester, I can work on it with the fundamental knowledge and by learning more from the course side by side.
+
+
