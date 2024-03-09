@@ -50,6 +50,10 @@ https://www.lua.org/about.html
 
 ## Activity 2 -  Write a user story
 
+Pick out an app that you use regularly and choose a feature to write a user story about. You may begin by writing a relatively general user story, but you should endeavour then to write a collection of more specific user stories for the same feature. Consider writing about different contexts, or different uses (i.e. users with different motivations). You can also try to write some acceptance criteria (i.e. a checklist of qualities or properties that should be present in the feature for it to be “accepted”).
+
+### Outcome
+
 For my app user story, I choose YouTube. It is a popular online video-sharing platform where users can upload, share, and view videos. It offers a diverse range of content, including music videos, tutorials, vlogs, and more. I use this app regularly for education and entertainment purpose.
 
 * "As a user, I can watch videos on the platform."
@@ -68,6 +72,12 @@ Acceptance criteria for the last of these user stories may include:
 
 
 ## Activity 3 -  Choose a language for community code
+
+The Community Code project requires that you spend time writing code in service of an open source community. The code you write need not necessarily be shared with that community, but you should write code with the community in mind. What code you write will be determined by course content, community needs, and your choice of programming language.
+
+For this task you should spend time thinking about what language you might like to work with for the remainder of this course. I recommend that you consider using a language you are already familiar with and preferably one that is closely associated with mobile or web app development. This is also an opportunity to learn more about your chosen language, so think of it as a learning opportunity.
+
+### Outcome
 
 The language I selected for the community code project is Javascript. Although I do not have much experience in this language but as, I am learning Javascript as one of my courses this semester, I can work on it with the fundamental knowledge and by learning more from the course side by side.
 
