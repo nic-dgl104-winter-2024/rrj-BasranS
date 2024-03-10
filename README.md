@@ -1,7 +1,7 @@
 # Research and Reflection Journal
  The DGL104 Research and Reflection Journal documents weekly activities and reflections throughout the rest of the semester, offering a structured record for academic growth.
 
-## Week 8 ( Feb. 26) 
+ ## Week 8 ( Feb. 26) 
 
 ## Activity 1 - Research a new language (Processing, Haskell or Lua)
 
@@ -81,4 +81,6 @@ The language I selected for the community code project is Javascript. Although I
 
 ## Activity 4 - Star Github topics repositories of interest
 
-Explore github and give stars is a new practice, I have learnt to gain the knowledge regarding different open source communities and their latest trends. Also, give stars to the interesting topic will be useful for us in future to stay updated.
+Explore github and give stars is a new practice, I have learnt to gain the knowledge regarding different open source communities and their latest trends. Also, give stars to the interesting topic will be useful for us in future to stay updated for potential learnings.
+
+
