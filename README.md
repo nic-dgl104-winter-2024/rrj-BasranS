@@ -125,9 +125,9 @@ Make sure to visit the description of the Community Code assignment on Brightspa
 
 The assignment encourages practicing good coding by participating in two open-source communities and consists of two parts. Although contributing to both parts are mandatory but for code only one part can be involved. Also both the parts should be completed simultaneously, not sequentially. 
 
-Part 1: Contribute to a real open-source community by improving code documentation, answering questions, creating tutorials, translating code, or working on GitHub issues. Fork the project, make changes, and document your contributions.
+Part 1 : Contribute to a real open-source community by improving code documentation, answering questions, creating tutorials, translating code, or working on GitHub issues. Fork the project, make changes, and document your contributions.
 
-Part 2: Contribute to a pattern library for DGL 104 students, involving software design and architecture patterns. This includes creating a README, CONTRIBUTING.md, and managing contributions through pull requests and issues.
+Part 2 : Contribute to a pattern library for DGL 104 students, involving software design and architecture patterns. This includes creating a README, CONTRIBUTING.md, and managing contributions through pull requests and issues.
 
 The rubric evaluates contributions in two parts: Part 1 for external open-source communities and Part 2 for an in-house pattern library. It covers documentation, code organization, user-facing activities, and commits, with a maximum score of 52 points. Overall scores range from "Excellent" to "Poor," reflecting engagement and contribution levels.
 
