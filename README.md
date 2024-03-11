@@ -16,7 +16,7 @@
 
 ## Week 8 ( Feb. 26)
 
-## Activity 1 - Research a new language (Processing, Haskell or Lua)
+## Activity 1 - Research a new language (Lua)
 
 This activity conducting research on either Processing, Haskell, or Lua and responding to the following questions.
 
