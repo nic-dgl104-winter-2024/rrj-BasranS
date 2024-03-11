@@ -3,16 +3,18 @@
  
 ##  Journal Content
 
-1. [Week 8](#week-8)
-   - [Activity 1 - Research a new language (Lua)](#week-8-activity-1)
-   - [Activity 2 - Write a user story (YouTube)](#week-8-activity-2)
-   - [Activity 3 - Choose a language for community code (JavaScript)](#week-8-activity-3)
-   - [Activity 4 - Star GitHub topics repositories of interest](#week-8-activity-4)
+1. Week 8
+   -  Activity 1 - Research a new language (Lua)
+   -  Activity 2 - Write a user story (YouTube)
+   -  Activity 3 - Choose a language for community code
+   -  Activity 4 - Star GitHub topics repositories of interest
 
-2. [Week 9](#week-9)
-   - [Activity 1 - Read the Community Code Assignment and link with Week 8](#week-9-activity-1)
-
-
+2. Week 9
+   - Activity 1 - Read the Community Code Assignment
+   - Activity 2 - Read the Research and Reflection Guide
+   - Activity 3 - How to contribute to open source
+   - Activity 4 - Identify issues to support 
+----
 
 ## Week 8 ( Feb. 26)
 
@@ -117,6 +119,17 @@ To complete this tasks, I visit to:
 
 ## Activity 1 - Read the Community Code Assignment
 
+Make sure to visit the description of the Community Code assignment on Brightspace. You should read the assignment description and the rubric in detail to familiarize yourself with expectations.
+
+### Outcome
+
+The assignment encourages practicing good coding by participating in two open-source communities and consists of two parts. Although contributing to both parts are mandatory but for code only one part can be involved. Also both the parts should be completed simultaneously, not sequentially. 
+
+Part 1: Contribute to a real open-source community by improving code documentation, answering questions, creating tutorials, translating code, or working on GitHub issues. Fork the project, make changes, and document your contributions.
+
+Part 2: Contribute to a pattern library for DGL 104 students, involving software design and architecture patterns. This includes creating a README, CONTRIBUTING.md, and managing contributions through pull requests and issues.
+
+The rubric evaluates contributions in two parts: Part 1 for external open-source communities and Part 2 for an in-house pattern library. It covers documentation, code organization, user-facing activities, and commits, with a maximum score of 52 points. Overall scores range from "Excellent" to "Poor," reflecting engagement and contribution levels.
 
 ## Activity 2 - Read the Research and Reflection Guide
 
