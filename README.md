@@ -3,6 +3,14 @@
  
 ##  Journal Content
 
+1. [Week 8](#week-8)
+   - [Activity 1 - Research a new language (Lua)](#week-8-activity-1)
+   - [Activity 2 - Write a user story (YouTube)](#week-8-activity-2)
+   - [Activity 3 - Choose a language for community code (JavaScript)](#week-8-activity-3)
+   - [Activity 4 - Star GitHub topics repositories of interest](#week-8-activity-4)
+
+2. [Week 9](#week-9)
+   - [Activity 1 - Read the Community Code Assignment and link with Week 8](#week-9-activity-1)
 
 
 
@@ -19,7 +27,7 @@ This activity conducting research on either Processing, Haskell, or Lua and resp
 
 ### Outcome
 
-About Lua
+*About Lua*
 
 Lua is a versatile and lightweight scripting language that's great for customizing things like games and software. It's powerful, fast, easy to use, and can be embedded into different applications. Lua is utilized by video game developers for scripting, embedded systems engineers for efficiency, and software developers for configuration and scripting. Some examples of companies using Lua are Adobe, World of Warcraft, Warframe, and CISCO systems. Lua has some excellent features which makes it perfect. It is a free, portable, fast, robust, and simple embeddable language.
 
@@ -103,9 +111,15 @@ To complete this tasks, I visit to:
 [GitHub Collections](https://github.com/collections)
 
 ----
+----
 
 ## Week 8 ( March. 5) 
 
 ## Activity 1 - Read the Community Code Assignment
 
-## Activity 2 -
+
+## Activity 2 - Read the Research and Reflection Guide
+
+## Activity 3 - How to contribute to open source
+
+## Activity 4 - Identify issues to support
