@@ -3,8 +3,8 @@
  
 ##  Journal Content
 
-* [Week 8 (Feb. 26)](#week-8-feb-26)
-* [Week 9 (March. 5)](#week-9-march-5)
+## [Week 8 (Feb. 26)](#week-8-feb-26)
+
 
 
 ## Week 8 ( Feb. 26)
@@ -38,9 +38,9 @@ In video game development, Lua is a popular choice, known for enhancing performa
 
 ### What are some useful resources?
 
-* Lua Programming Wiki
-* Careerkarma 
-* Lua Documentation
+* [Lua Programming Wiki](https://en.wikipedia.org/wiki/Lua_(programming_language))
+* [Careerkarma](https://careerkarma.com/blog/who-uses-lua/)
+* [Lua Documentation](https://www.lua.org/docs.html)
 
 ### Why are these specific resources useful?
 
@@ -95,13 +95,13 @@ Explore github and give stars is a new practice, I have learnt to gain the knowl
 
 To complete this tasks, I visit to:
 
-https://github.com/explore
+[GitHub Explore](https://github.com/explore)
 
-https://github.com/topics
+[GitHub Topics](https://github.com/topics)
 
-https://github.com/trending
+[GitHub Trending](https://github.com/trending)
 
-https://github.com/collections
+[GitHub Collections](https://github.com/collections)
 
 ----
 
