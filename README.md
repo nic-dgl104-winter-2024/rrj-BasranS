@@ -3,7 +3,7 @@
  
 ##  Journal Content
 
-## [Week 8 (Feb. 26)](#week-8-feb-26)
+* [Week 8 (Feb. 26)](#week-8-feb-26)
 
 
 
