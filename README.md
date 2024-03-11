@@ -1,7 +1,13 @@
-# Research and Reflection Journal
+# *Research and Reflection Journal*
  The DGL104 Research and Reflection Journal documents weekly activities and reflections throughout the rest of the semester, offering a structured record for academic growth.
+ 
+##  Journal Content
 
- ## Week 8 ( Feb. 26) 
+* [Week 8 (Feb. 26)](*week-8-feb-26)
+* [Week 9 (March. 5)](*week-9-march-5)
+
+
+## Week 8 ( Feb. 26)
 
 ## Activity 1 - Research a new language (Processing, Haskell or Lua)
 
@@ -46,6 +52,7 @@ https://careerkarma.com/blog/who-uses-lua/
 
 https://www.lua.org/about.html
 
+----
 
 
 ## Activity 2 -  Write a user story
@@ -68,6 +75,7 @@ Acceptance criteria for the last of these user stories may include:
 * The channel subscription feature should be straightforward and easily accessible.
 * The "Like" button should be visible on the video player interface, and clicking it should increment the video likes.
 
+----
 
 ## Activity 3 -  Choose a language for community code
 
@@ -79,8 +87,26 @@ For this task you should spend time thinking about what language you might like 
 
 The language I selected for the community code project is Javascript. Although I do not have much experience in this language but as, I am learning Javascript as one of my courses this semester, I can work on it with the fundamental knowledge. It's a practical way for me to apply what I'm learning in class and get hands-on experience with JavaScript by working on this project.
 
+----
+
 ## Activity 4 - Star Github topics repositories of interest
 
 Explore github and give stars is a new practice, I have learnt to gain the knowledge regarding different open source communities and their latest trends. Also, give stars to the interesting topic will be useful for us in future to stay updated for potential learnings.
 
+To complete this tasks, I visit to:
 
+https://github.com/explore
+
+https://github.com/topics
+
+https://github.com/trending
+
+https://github.com/collections
+
+----
+
+## Week 8 ( March. 5) 
+
+## Activity 1 - Read the Community Code Assignment
+
+## Activity 2 -
