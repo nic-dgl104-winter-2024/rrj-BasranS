@@ -3,8 +3,8 @@
  
 ##  Journal Content
 
-* [Week 8 (Feb. 26)](#week-8-feb-26)
-* [Week 9 (March. 5)](#week-9-march-5)
+* [Week 8 (Feb. 26)](README.md#L10)
+* [Week 9 (March. 5)](README.md#L108)
 
 
 ## Week 8 ( Feb. 26)
