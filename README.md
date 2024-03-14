@@ -11,9 +11,8 @@
 
 2. Week 9
    - Activity 1 - Read the Community Code Assignment
-   - Activity 2 - Read the Research and Reflection Guide
-   - Activity 3 - How to contribute to open source
-   - Activity 4 - Identify issues to support 
+   - Activity 2 - How to contribute to open source
+   - Activity 3 - Identify issues to support 
 ----
 
 ## Week 8 ( Feb. 26)
@@ -131,8 +130,32 @@ Part 2 : Contribute to a pattern library for DGL 104 students, involving softwar
 
 The rubric evaluates contributions in two parts: Part 1 for external open-source communities and Part 2 for an in-house pattern library. It covers documentation, code organization, user-facing activities, and commits, with a maximum score of 52 points. Overall scores range from "Excellent" to "Poor," reflecting engagement and contribution levels.
 
-## Activity 2 - Read the Research and Reflection Guide
+## Activity 2 - How to contribute to open source
 
-## Activity 3 - How to contribute to open source
+The open source guide offers a thorough and easily understandable content, organized into distinct sections. Each section presents something new for me as, I do not have knowledge of  these since I previously had no familiarity with the topic. 
+
+*Why to Contribute to open source?*
+
+This part explains how anyone can help improve open source projects, not just by coding, but also by doing things like writing, designing, or organizing. It suggests finding a project you like, checking if it's open to new ideas, and then following some steps to suggest changes or improvements. It emphasizes that everyone's contribution is valuable, no matter their skills or experience, and encourages people to get involved.
+
+*What it means to contribute*?
+
+This part shows contributing to open source means helping out with software that anyone can use and modify for free. It's like joining a team to make something better, whether by fixing bugs, writing instructions, designing graphics, or just chatting with others.
+
+*Orienting yourself to a new project!*
+
+This section give knowledge about how joining a new open-source project is like joining a new group with its own leaders and members. Each project has documents explaining how to contribute and rules for behavior. People use tools like issue trackers and chat channels to work together. Understanding these basics helps you contribute effectively.
+
+*Finding a project to contribute to!*
+
+This section give information regarding open source contribution at distinct levels during the project. Also, there is a checklist for before starting of every project with range of resource for new projects work.
+
+*How to submit a contribution?*
+
+This part provides information that contributing to open source it is useful to communicate clearly, keep it short, and be patient. Also, by following guidelines when submitting your contribution and respect others decisions to acheive a meaningful contribution to open source projects.
+
+*What happens after you submit your contribution?*
+
+This section give knowledge that after submitting the contribution to an open-source project, four things can happen: no response, requested changes, rejection, or acceptance.
 
 ## Activity 4 - Identify issues to support
