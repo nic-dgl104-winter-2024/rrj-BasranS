@@ -130,6 +130,8 @@ Part 2 : Contribute to a pattern library for DGL 104 students, involving softwar
 
 The rubric evaluates contributions in two parts: Part 1 for external open-source communities and Part 2 for an in-house pattern library. It covers documentation, code organization, user-facing activities, and commits, with a maximum score of 52 points. Overall scores range from "Excellent" to "Poor," reflecting engagement and contribution levels.
 
+----
+
 ## Activity 2 - How to contribute to open source
 
 The open source guide offers a thorough and easily understandable content, organized into distinct sections. Each section presents something new for me as, I do not have knowledge of  these since I previously had no familiarity with the topic. 
@@ -157,5 +159,10 @@ This part provides information that contributing to open source it is useful to 
 *What happens after you submit your contribution?*
 
 This section give knowledge that after submitting the contribution to an open-source project, four things can happen: no response, requested changes, rejection, or acceptance.
+
+----
+
+## Activity 3 - Find Potential Projects to Contribute to
+
 
 ## Activity 4 - Identify issues to support
