@@ -4,12 +4,13 @@
 ##  Journal Content
 
 1. Week 8
-   -  Activity 1 - Research a new language (Lua)
-   -  Activity 2 - Write a user story (YouTube)
-   -  Activity 3 - Choose a language for community code
-   -  Activity 4 - Star GitHub topics repositories of interest
+   -  Activity 1 - Read the Research and Reflection assignment
+   -  Activity 2 - Research a new language (Lua)
+   -  Activity 3 - Write a user story (YouTube)
+   -  Activity 4 - Choose a language for community code
+   -  Activity 5 - Star GitHub topics repositories of interest
 
-2. Week 9
+3. Week 9
    - Activity 1 - Read the Community Code Assignment
    - Activity 2 - How to contribute to open source
    - Activity 3 - Identify issues to support 
@@ -17,7 +18,17 @@
 
 ## Week 8 ( Feb. 26)
 
-## Activity 1 - Research a new language (Lua)
+## Activity 1 - Read the Research and Reflection assignment
+
+Make sure to visit the description of the Research & Reflection assignment on Brightspace. You should read the assignment description and the rubric in detail to familiarize yourself with expectations.
+
+### Outcome
+
+In this assignment, we have to write about what they do each week in their class. There is a need to include everything we learn and reflect on it. The goal is to show our progression and learnings. Also, we have to make sure to organize the writing well and include references when needed for better and informative journal. The rubric grades the Research and Reflection Journal based on how well the content is write and organize. It checks if the entries are detailed and reflective and include proper references. Also the journal should be easy to follow with supportive statements and correct citations. Created the github repo on time is also important. Scores range from "Needs improvement" to "Excellent" for each part, deciding the overall grade.
+
+----
+
+## Activity 2 - Research a new language (Lua)
 
 This activity conducting research on either Processing, Haskell, or Lua and responding to the following questions.
 
@@ -63,7 +74,7 @@ https://www.lua.org/about.html
 ----
 
 
-## Activity 2 -  Write a user story
+## Activity 3 -  Write a user story
 
 Pick out an app that you use regularly and choose a feature to write a user story about. You may begin by writing a relatively general user story, but you should endeavour then to write a collection of more specific user stories for the same feature. Consider writing about different contexts, or different uses (i.e. users with different motivations). You can also try to write some acceptance criteria (i.e. a checklist of qualities or properties that should be present in the feature for it to be “accepted”).
 
@@ -85,7 +96,7 @@ Acceptance criteria for the last of these user stories may include:
 
 ----
 
-## Activity 3 -  Choose a language for community code
+## Activity 4 -  Choose a language for community code
 
 The Community Code project requires that you spend time writing code in service of an open source community. The code you write need not necessarily be shared with that community, but you should write code with the community in mind. What code you write will be determined by course content, community needs, and your choice of programming language.
 
@@ -97,7 +108,7 @@ The language I selected for the community code project is Javascript. Although I
 
 ----
 
-## Activity 4 - Star Github topics repositories of interest
+## Activity 5 - Star Github topics repositories of interest
 
 Explore github and give stars is a new practice, I have learnt to gain the knowledge regarding different open source communities and their latest trends. Also, give stars to the interesting topic will be useful for us in future to stay updated for potential learnings.
 
@@ -114,7 +125,7 @@ To complete this tasks, I visit to:
 ----
 ----
 
-## Week 8 ( March. 5) 
+## Week 9 ( March. 5) 
 
 ## Activity 1 - Read the Community Code Assignment
 
