@@ -203,13 +203,13 @@ This section give knowledge that after submitting the contribution to an open-so
 
 ### Task Involved
 
-Task 1 - Identifying and selecting open-source repositories from platforms like [Good First Issues](https://goodfirstissue.dev/), [Up for Grabs](https://up-for-grabs.net/#/), [CodeTriage](https://www.codetriage.com/) that align with your interests and skillset.
+* Task 1 - Identifying and selecting open-source repositories from platforms like [Good First Issues](https://goodfirstissue.dev/), [Up for Grabs](https://up-for-grabs.net/#/), [CodeTriage](https://www.codetriage.com/) that align with your interests and skillset.
 
-Task 2 -  Analyzing the selected projects by reviewing available issues, understanding their requirements, discussing potential solutions with the community, and preparing contributions such as code changes or documentation updates.
+* Task 2 -  Analyzing the selected projects by reviewing available issues, understanding their requirements, discussing potential solutions with the community, and preparing contributions such as code changes or documentation updates.
 
-Task 3 - Using the [checklist](https://opensource.guide/how-to-contribute/#finding-a-project-to-contribute-to) helps figure out if any of the projects are a good match. This makes it easier to pick three projects that are relevant to us.
+* Task 3 - Using the [checklist](https://opensource.guide/how-to-contribute/#finding-a-project-to-contribute-to) helps figure out if any of the projects are a good match. This makes it easier to pick three projects that are relevant to us.
 
-Task 4 - Take a screenshot when you have completed all checklist questions.
+* Task 4 - Take a screenshot when you have completed all checklist questions.
 
 
 ## Outcome
@@ -244,7 +244,32 @@ My project choices:
 ----
 ----
 
-## Activity 4 - Identify issues to support
+## Activity 4 - Explore community connections
+
+### Tasks
+
+1. Research community connections and Identify primary community platforms (Discord, Slack, Zulip) for open source projects.
+2. Spend some time familiarizing yourself with the community.
+3. Follow as many relevant links from the repository back to potential communities that you can find (this might include looking carefully at maintainer GitHub profiles, websites and 
+   socials).
+4. Write a summary of your discoveries in your Research and Reflection Journal.
+
+### Outcome
+
+In looking for connections with other communities related to my projects, I checked out places like its GitHub page, the profiles of people who work on it, any websites or social media they use, and places where they talk about the project or help each other out. 
+
+Mermaid - Mermaid, the JavaScript-based diagramming tool, is supported by its GitHub repository, a [Discord community](https://discord.com/invite/AgrbSrBer3) , its [documentation website](https://mermaid.js.org/) and [Live Editor](https://mermaid.live/edit) for its feature. These platforms facilitate collaboration, support, and community engagement around the project.
+
+Swag-for-dev - This project is supported by a diverse network of communities, including [Slack](https://swagfordev.slack.com/join/shared_invite/zt-6ecwtoap-QR1sl1782xTCiGzBnSJt3g#/shared-invite/email) and [Telegram](https://t.me/devswag) for real-time discussions, GitHub Discussions for project-related conversations, and features on platforms like [Changelog Nightly](https://nightly.changelog.com/2018/02/18/), [Hacker News](https://news.ycombinator.com/item?id=16407484), [Reddit](https://www.reddit.com/r/coolgithubprojects/comments/7ygd5n/as_a_developer_nothing_piques_my_interest_as_much/?rdt=35105), and [Product Hunt](https://www.producthunt.com/products/swag-for-dev#swag-for-dev). 
+
+Food-up - By exploring these potential community connections, contributors can engage with like-minded individuals, seek support, and foster collaboration to enhance the food-up project.
+
+-----
+-----
+
+## Activity 5 - Identify issues to support
+
+
 
 ## References
 
