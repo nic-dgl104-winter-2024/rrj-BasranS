@@ -10,10 +10,18 @@
    -  Activity 4 - Choose a language for community code
    -  Activity 5 - Star GitHub topics repositories of interest
 
-3. Week 9
+2. Week 9
    - Activity 1 - Read the Community Code Assignment
    - Activity 2 - How to contribute to open source
-   - Activity 3 - Identify issues to support 
+   - Activity 3 - Find Potential Projects to Contribute to
+   - Activity 4 - Explore community connections
+   - Activity 5 - Identify issues to support
+
+3. Week 10
+   - Activity 1 - Assess external community contribution Guidelines
+   - Activity 2 - Contribute to external community
+   - Activity 3 - Contribute to pattern library
+----
 ----
 
 ## Week 8 ( Feb. 26)
@@ -26,6 +34,7 @@ Make sure to visit the description of the Research & Reflection assignment on Br
 
 In this assignment, we have to write about what they do each week in their class. There is a need to include everything we learn and reflect on it. The goal is to show our progression and learnings. Also, we have to make sure to organize the writing well and include references when needed for better and informative journal. The rubric grades the Research and Reflection Journal based on how well the content is write and organize. It checks if the entries are detailed and reflective and include proper references. Also the journal should be easy to follow with supportive statements and correct citations. Created the github repo on time is also important. Scores range from "Needs improvement" to "Excellent" for each part, deciding the overall grade.
 
+----
 ----
 
 ## Activity 2 - Research a new language (Lua)
@@ -72,7 +81,7 @@ https://careerkarma.com/blog/who-uses-lua/
 https://www.lua.org/about.html
 
 ----
-
+----
 
 ## Activity 3 -  Write a user story
 
@@ -95,6 +104,7 @@ Acceptance criteria for the last of these user stories may include:
 * The "Like" button should be visible on the video player interface, and clicking it should increment the video likes.
 
 ----
+----
 
 ## Activity 4 -  Choose a language for community code
 
@@ -106,6 +116,7 @@ For this task you should spend time thinking about what language you might like 
 
 The language I selected for the community code project is Javascript. Although I do not have much experience in this language but as, I am learning Javascript as one of my courses this semester, I can work on it with the fundamental knowledge. It's a practical way for me to apply what I'm learning in class and get hands-on experience with JavaScript by working on this project.
 
+----
 ----
 
 ## Activity 5 - Star Github topics repositories of interest
@@ -122,6 +133,7 @@ To complete this tasks, I visit to:
 
 [GitHub Collections](https://github.com/collections)
 
+----
 ----
 ----
 
@@ -141,6 +153,7 @@ Part 2 : Contribute to a pattern library for DGL 104 students, involving softwar
 
 The rubric evaluates contributions in two parts: Part 1 for external open-source communities and Part 2 for an in-house pattern library. It covers documentation, code organization, user-facing activities, and commits, with a maximum score of 52 points. Overall scores range from "Excellent" to "Poor," reflecting engagement and contribution levels.
 
+----
 ----
 
 ## Activity 2 - How to contribute to open source
@@ -172,8 +185,26 @@ This part provides information that contributing to open source it is useful to 
 This section give knowledge that after submitting the contribution to an open-source project, four things can happen: no response, requested changes, rejection, or acceptance.
 
 ----
+----
 
 ## Activity 3 - Find Potential Projects to Contribute to
 
+### Task Involved
+
+Task 1 : Identifying and selecting open-source repositories from platforms like that align with your interests and skillset.
+
+Task 2 :  Analyzing the selected projects by reviewing available issues, understanding their requirements, discussing potential solutions with the community, and preparing contributions such as code changes or documentation updates.
+
+Task 3 : Using the checklist helps figure out if any of the projects are a good match. This makes it easier to pick three projects that are relevant to us.
+
+Task 4 : Take a screenshot when you have completed all checklist questions.
+
+
+## Outcome
+
+
+
+----
+----
 
 ## Activity 4 - Identify issues to support
