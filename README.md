@@ -133,6 +133,28 @@ To complete this tasks, I visit to:
 [GitHub Collections](https://github.com/collections)
 
 
+## Reflection 
+
+1. What is one interesting thing that you’ve learned from researching about programming languages and from reading other students’ posting about programming languages in response to the 
+   first activity?
+
+   Learning a new language is always fun and exciting. With this research, I learn a very new programming language with many useful features of it. I would love to learn more 
+   practical approach of this language in future.
+
+2. What other programming languages might you consider to work with for DGL 104? What are your second choices, and why?
+
+   Since JavaScript is my primary choice, I'm considering Kotlin, PHP, or Lua as my second option. Lua caught my interest after some research due to its utility. Additionally, PHP 
+   will be part of my upcoming semester, while I've already gained some basic knowledge about Kotlin through my current DGL-114 course.
+
+4. What did you find most interesting when examining repositories on GitHub? Is there anything that surprised you, or that you didn’t expect? What similarities are there across some of 
+   the repositories you’ve starred?
+
+   Looking through GitHub projects was fascinating. I was amazed by the wide range of stuff people are working on. Even though they're all different, the ones I liked usually with 
+   clean code and clear instructions. It's been knowledgable to see what others are up to and learn from it.
+
+-----
+-----
+
 ### References :
 
 Lua (programming language). (n.d.). In Wikipedia. https://en.wikipedia.org/wiki/Lua_(programming_language)
@@ -140,8 +162,6 @@ Lua (programming language). (n.d.). In Wikipedia. https://en.wikipedia.org/wiki/
 Careerkarma. (2022, Feburary 4). Who Uses Lua?. https://careerkarma.com/blog/who-uses-lua/
 
 Lua Documentation. (n.d.). https://www.lua.org/docs.html
-
-
 
 ----
 ----
@@ -194,7 +214,6 @@ This part provides information that contributing to open source it is useful to 
 
 This section give knowledge that after submitting the contribution to an open-source project, four things can happen: no response, requested changes, rejection, or acceptance. 
 [(Open source Guide)](https://opensource.guide/how-to-contribute/)
-
 
 ----
 ----
@@ -270,7 +289,8 @@ Food-up - By exploring these potential community connections, contributors can e
 ## Activity 5 - Identify issues to support
 
 
-
+-----
+-----
 ## References
 
 How to contribute to open source. (2024, February 8). Open Source Guides: (https://opensource.guide/how-to-contribute/)
@@ -281,4 +301,31 @@ Up for Grabs (https://up-for-grabs.net/#/)
 
 CodeTriage (https://www.codetriage.com/)
 
+-----
+-----
+-----
 
+## Week 10 ( Mar. 11)
+
+## Activity 1 - Assess external community contribution Guidelines
+
+
+
+----
+----
+## Activity 2 - Contribute to external community
+----
+----
+## Activity 3 - Contribute to pattern library
+
+----
+----
+
+## Reflection
+
+## References 
+
+
+----
+----
+----
