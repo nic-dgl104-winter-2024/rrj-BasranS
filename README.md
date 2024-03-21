@@ -132,6 +132,8 @@ To complete this tasks, I visit to:
 
 [GitHub Collections](https://github.com/collections)
 
+----
+-----
 
 ## Reflection 
 
@@ -291,6 +293,26 @@ Food-up - By exploring these potential community connections, contributors can e
 
 -----
 -----
+
+## Reflection 
+
+1. What is the most surprising thing that you’ve learned about open source development and/or open source communities during your research this week?
+
+   The incredible level of collaboration of people from different background into a particular community. Also, I learnt about the overall process pf PR, issue searching and much more
+   in this week which is a great learning.   
+   
+3. What types of open source projects do you find yourself most drawn to? Is there an obvious connection between them?
+
+   I am mostly interested in open-source projects that involve JavaScript. Since I am familiar with JavaScript, I find these projects more acheiveable and meaningful contributions for  
+   contributing.
+   
+5. Is the programming language that you chose last week still the right choice? Should you consider alternatives?
+
+   Although, I learnt about a lots of new language but, for now, I am sticking with JavaScript because I haven not practiced other languages enough to feel comfortable with them yet. 
+   Since I am already familiar with JavaScript and actively practicing it, I want to continue focusing on it for now.
+
+----
+----
 ## References
 
 How to contribute to open source. (2024, February 8). Open Source Guides: (https://opensource.guide/how-to-contribute/)
