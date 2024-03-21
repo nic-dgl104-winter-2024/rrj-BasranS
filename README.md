@@ -218,15 +218,28 @@ My project choices:
 
 * Project 1
   - Mermaid is a tool that helps you create diagrams and charts using simple text commands in a language similar to Markdown. 
-    Its main aim is to make it easier for documentation to keep pace with the progress of development projects. Here is the repository 
-    of this project [Mermaid](https://github.com/mermaid-js/mermaid)
+    Its main aim is to make it easier for documentation to keep pace with the progress of development projects. . It offers various 
+    diagram types, real-time editing with a Live Editor, integration with development workflows, security measures, and has a supportive 
+    community. It won the JS Open Source Awards in 2019 for its innovative use of technology. Here is the repository 
+    of this project [Mermaid](https://github.com/mermaid-js/mermaid).
+    
+    ![checklist1](https://github.com/nic-dgl104-winter-2024/rrj-BasranS/assets/144393592/5647a45e-8b8b-4c67-ac9a-a70c4a5bb610)
+    
 
 * Project 2:
-  - Swag-for-dev is a curated list of verified swag opportunities for developers. Anyone can contribute by sending a Pull Request to add 
-    new opportunities. Here is the repository of this project [Swag-for-dev](https://github.com/swapagarwal/swag-for-dev)
+  - Swag-for-dev is a curated list of verified swag opportunities for developers. Users can contribute to the list, and the project 
+    encourages transparency and engagement. It offers a supportive community, donation options for hosting costs. Here is the repository 
+    of this project [Swag-for-dev](https://github.com/swapagarwal/swag-for-dev).
+
+    ![checklist2](https://github.com/nic-dgl104-winter-2024/rrj-BasranS/assets/144393592/e55e2b2c-ea5f-44b7-bbe2-067e2c065d74)
+
 
 * Project 3:
-  - Food-Up is like a social media platform just for food lovers. Here is the repository of this project [food-up](https://github.com/AMU-Code-Squad/food-up)
+  - Food-Up is a social networking site for foodies, built with Node.js, Express.js, and MongoDB. It's easy to set up with clear 
+    instructions and Git integration. Contributors can add their names to the project's webpage. Here is the repository of this project
+    [food-up](https://github.com/AMU-Code-Squad/food-up).
+
+    ![checklist3 1](https://github.com/nic-dgl104-winter-2024/rrj-BasranS/assets/144393592/d3022252-ff73-4d26-b6c1-f89461e326f7)
 
 ----
 ----
