@@ -214,7 +214,19 @@ Task 4 - Take a screenshot when you have completed all checklist questions.
 
 ## Outcome
 
+My project choices:
 
+* Project 1
+  - Mermaid is a tool that helps you create diagrams and charts using simple text commands in a language similar to Markdown. 
+    Its main aim is to make it easier for documentation to keep pace with the progress of development projects. Here is the repository 
+    of this project [Mermaid](https://github.com/mermaid-js/mermaid)
+
+* Project 2:
+  - Swag-for-dev is a curated list of verified swag opportunities for developers. Anyone can contribute by sending a Pull Request to add 
+    new opportunities. Here is the repository of this project [Swag-for-dev](https://github.com/swapagarwal/swag-for-dev)
+
+* Project 3:
+  - Food-Up is like a social media platform just for food lovers. Here is the repository of this project [food-up](https://github.com/AMU-Code-Squad/food-up)
 
 ----
 ----
