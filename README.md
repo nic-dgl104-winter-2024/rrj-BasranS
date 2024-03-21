@@ -50,7 +50,7 @@ This activity conducting research on either Processing, Haskell, or Lua and resp
 
 *About Lua*
 
-Lua is a versatile and lightweight scripting language that's great for customizing things like games and software. It's powerful, fast, easy to use, and can be embedded into different applications. Lua is utilized by video game developers for scripting, embedded systems engineers for efficiency, and software developers for configuration and scripting. Some examples of companies using Lua are Adobe, World of Warcraft, Warframe, and CISCO systems. Lua has some excellent features which makes it perfect. It is a free, portable, fast, robust, and simple embeddable language.
+Lua is a versatile and lightweight scripting language that's great for customizing things like games and software. It's powerful, fast, easy to use, and can be embedded into different applications. Lua is utilized by video game developers for scripting, embedded systems engineers for efficiency, and software developers for configuration and scripting. Some examples of companies using Lua are Adobe, World of Warcraft, Warframe, and CISCO systems. Lua has some excellent features which makes it perfect. It is a free, portable, fast, robust, and simple embeddable language [(Lua: About, n.d.)](https://www.lua.org/about.html).
 
 ### What is the language used for?
 
@@ -72,13 +72,11 @@ In video game development, Lua is a popular choice, known for enhancing performa
 
 ### Why are these specific resources useful?
 
-These sources offer complete and well-organized content to make learning Lua easy. The Lua Programming Wiki gives diverse insights, and CareerKarma is an excellent learning path for more information.
+These sources offer complete with well-organized content to make learning Lua easy.
 
-### Resources:
-
-https://careerkarma.com/blog/who-uses-lua/
-
-https://www.lua.org/about.html
+* Lua Programming Wiki (Wikipedia) - Provides comprehensive overview, syntax reference, features, applications, history, and related technologies of Lua.
+* Careerkarma Blog - Offers industry insights, real-world examples, career paths, trends, community support related to Lua.
+* Lua Documentation: Official reference with language specification, examples, version-specific information.
 
 ----
 ----
@@ -89,7 +87,7 @@ Pick out an app that you use regularly and choose a feature to write a user stor
 
 ### Outcome
 
-For my app user story, I choose YouTube. It is a popular online video-sharing platform where users can upload, share, and view videos. It offers a diverse range of content, including music videos, tutorials, vlogs, and more. I use this app regularly for education and entertainment purpose.
+For my app user story, I choose [YouTube](https://www.youtube.com/). It is a popular online video-sharing platform where users can upload, share, and view videos. It offers a diverse range of content, including music videos, tutorials, vlogs, and more. I use this app regularly for education and entertainment purpose.
 
 * "As a user, I can watch videos on the platform."
 * "As a user, I can search for specific videos using the search feature."
@@ -116,6 +114,7 @@ For this task you should spend time thinking about what language you might like 
 
 The language I selected for the community code project is Javascript. Although I do not have much experience in this language but as, I am learning Javascript as one of my courses this semester, I can work on it with the fundamental knowledge. It's a practical way for me to apply what I'm learning in class and get hands-on experience with JavaScript by working on this project.
 
+
 ----
 ----
 
@@ -132,6 +131,17 @@ To complete this tasks, I visit to:
 [GitHub Trending](https://github.com/trending)
 
 [GitHub Collections](https://github.com/collections)
+
+
+### References :
+
+Lua (programming language). (n.d.). In Wikipedia. https://en.wikipedia.org/wiki/Lua_(programming_language)
+
+Careerkarma. (2022, Feburary 4). Who Uses Lua?. https://careerkarma.com/blog/who-uses-lua/
+
+Lua Documentation. (n.d.). https://www.lua.org/docs.html
+
+
 
 ----
 ----
@@ -182,7 +192,9 @@ This part provides information that contributing to open source it is useful to 
 
 *What happens after you submit your contribution?*
 
-This section give knowledge that after submitting the contribution to an open-source project, four things can happen: no response, requested changes, rejection, or acceptance.
+This section give knowledge that after submitting the contribution to an open-source project, four things can happen: no response, requested changes, rejection, or acceptance. 
+[(Open source Guide)](https://opensource.guide/how-to-contribute/)
+
 
 ----
 ----
@@ -191,11 +203,11 @@ This section give knowledge that after submitting the contribution to an open-so
 
 ### Task Involved
 
-Task 1 - Identifying and selecting open-source repositories from platforms like that align with your interests and skillset.
+Task 1 - Identifying and selecting open-source repositories from platforms like [Good First Issues](https://goodfirstissue.dev/), [Up for Grabs](https://up-for-grabs.net/#/), [CodeTriage](https://www.codetriage.com/) that align with your interests and skillset.
 
 Task 2 -  Analyzing the selected projects by reviewing available issues, understanding their requirements, discussing potential solutions with the community, and preparing contributions such as code changes or documentation updates.
 
-Task 3 - Using the checklist helps figure out if any of the projects are a good match. This makes it easier to pick three projects that are relevant to us.
+Task 3 - Using the [checklist](https://opensource.guide/how-to-contribute/#finding-a-project-to-contribute-to) helps figure out if any of the projects are a good match. This makes it easier to pick three projects that are relevant to us.
 
 Task 4 - Take a screenshot when you have completed all checklist questions.
 
@@ -208,3 +220,15 @@ Task 4 - Take a screenshot when you have completed all checklist questions.
 ----
 
 ## Activity 4 - Identify issues to support
+
+## References
+
+How to contribute to open source. (2024, February 8). Open Source Guides: (https://opensource.guide/how-to-contribute/)
+
+Good First Issues (https://goodfirstissue.dev/)
+
+Up for Grabs (https://up-for-grabs.net/#/) 
+
+CodeTriage (https://www.codetriage.com/)
+
+
