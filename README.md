@@ -256,11 +256,13 @@ My project choices:
 
 
 * Project 3:
-  - Food-Up is a social networking site for foodies, built with Node.js, Express.js, and MongoDB. It's easy to set up with clear 
-    instructions and Git integration. Contributors can add their names to the project's webpage. Here is the repository of this project
-    [food-up](https://github.com/AMU-Code-Squad/food-up).
+  - Storybook is a frontend workshop aimed at building UI components and pages in isolation. It serves as a tool for UI development, testing, and documentation. With support for various 
+    frameworks like React, Angular, Vue, and others, Storybook enables teams to develop and showcase UI components effectively. 
+    [Storybook](https://github.com/storybookjs/storybook).
 
-    ![checklist3 1](https://github.com/nic-dgl104-winter-2024/rrj-BasranS/assets/144393592/d3022252-ff73-4d26-b6c1-f89461e326f7)
+    ![checklist3](https://github.com/nic-dgl104-winter-2024/rrj-BasranS/assets/144393592/e56b5fda-7865-4934-bceb-f9701cfd783b)
+
+
 
 ----
 ----
@@ -283,7 +285,8 @@ Mermaid - Mermaid, the JavaScript-based diagramming tool, is supported by its Gi
 
 Swag-for-dev - This project is supported by a diverse network of communities, including [Slack](https://swagfordev.slack.com/join/shared_invite/zt-6ecwtoap-QR1sl1782xTCiGzBnSJt3g#/shared-invite/email) and [Telegram](https://t.me/devswag) for real-time discussions, GitHub Discussions for project-related conversations, and features on platforms like [Changelog Nightly](https://nightly.changelog.com/2018/02/18/), [Hacker News](https://news.ycombinator.com/item?id=16407484), [Reddit](https://www.reddit.com/r/coolgithubprojects/comments/7ygd5n/as_a_developer_nothing_piques_my_interest_as_much/?rdt=35105), and [Product Hunt](https://www.producthunt.com/products/swag-for-dev#swag-for-dev). 
 
-Food-up - By exploring these potential community connections, contributors can engage with like-minded individuals, seek support, and foster collaboration to enhance the food-up project.
+Storybook - The Storybook community thrives across platforms like [GitHub Discussions](https://github.com/storybookjs/storybook/discussions/new?category=help), [Discord](https://discord.com/invite/storybook), [Twitter](https://twitter.com/intent/follow?screen_name=storybookjs), [Youtube](https://www.youtube.com/channel/UCr7Quur3eIyA_oe8FNYexfg), 
+[Medium](https://medium.com/storybookjs) with these channels ensure active engagement, driving the continuous growth and adoption of Storybook. With support from various frameworks and generous sponsorships, Storybook offers a welcoming space for developers to collaborate, learn, and innovate. 
 
 -----
 -----
@@ -303,8 +306,7 @@ Food-up - By exploring these potential community connections, contributors can e
    
 3. What types of open source projects do you find yourself most drawn to? Is there an obvious connection between them?
 
-   I am mostly interested in open-source projects that involve JavaScript. Since I am familiar with JavaScript, I find these projects more acheiveable and meaningful contributions for  
-   contributing.
+   I am mostly interested in open-source projects that involve JavaScript. Since I am familiar with JavaScript, I find these projects more acheiveable and meaningful contributions for contributing. I have more interest in storybook and mermaid.
    
 5. Is the programming language that you chose last week still the right choice? Should you consider alternatives?
 
