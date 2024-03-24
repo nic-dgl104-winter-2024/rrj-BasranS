@@ -404,7 +404,7 @@ Storybook provides detailed information about contribution in their [contributio
 
 There is a step by step procedure which one need to follow to participate as a contributor which include in contributing.md. They encourage newcomer to join them in contributing as their community is a harassment-free experience for everyone. They describe different ways to contribute in their contribution guide.
 
-
+ Overall, it seems like Storybook has put effort into creating a supportive and inclusive environment for contributors.
 
 ----
 ----
