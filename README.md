@@ -413,7 +413,11 @@ Overall, it seems like Storybook has put effort into creating a supportive and i
 
 ## Activity 2 - Contribute to external community
 
+I have chosen an issue from the Storybook project, for which I have forked and cloned the repository to my local machine. Subsequently, I have created a new branch dedicated to addressing this particular issue. My focus is on conducting thorough research and preparing comprehensive documentation for the identified issue. I have initiated the process of gathering necessary information to provide a well-documented and structured approach towards understanding and potentially resolving this problem.
 
+Here I provided the information regarding my contributions
+
+[Contribution document](https://github.com/nic-dgl104-winter-2024/rrj-BasranS/blob/main/CONTRIBUTING.md)
 
 ----
 ----
