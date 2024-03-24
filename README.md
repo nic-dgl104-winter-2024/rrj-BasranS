@@ -353,7 +353,7 @@ To complete this activity, I thoroughly reviewed the issues in my chosen project
 
     * Conversations - The labels like "good first issue" and "help wanted," this presents an accessible opportunity for newcomers to contribute. The ongoing conversation revolves around understanding Compodoc's role, with key contributors providing insights into its functionality and interaction with Storybook.
 
-I decided to work on the issue of storybook project for contribution in my community code part 1.
+      I decided to work on the issue of storybook project for contribution in my community code part 1.
 
 -----
 -----
