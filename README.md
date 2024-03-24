@@ -394,6 +394,15 @@ CodeTriage (https://www.codetriage.com/)
 
 ## Activity 1 - Assess external community contribution Guidelines
 
+### Task
+
+The task is to see if the project has instructions on how to contribute. If it does, read them carefully and follow the steps. If not, decide if still contribute can be done or try to learn more about the project's community. There is no nedd to submit any code yet, just make sure to understand how to contribute.
+
+### Outcome
+
+Storybook provides detailed information about contribution in their [contribution guide](https://storybook.js.org/docs/contribute) and [contributing.md](https://github.com/storybookjs/storybook/blob/next/CONTRIBUTING.md). Also they provide a lot of useful information regarding their supprtive communities and platforms with the information of their sponsors.
+There is a step by step procedure which one need to follow to participate as a contributor which include in contributing.md. They encourage newcomer to join them in contributing as their community is a harassment-free experience for everyone. They describe different ways to contribute in their contribution guide.
+
 
 
 ----
