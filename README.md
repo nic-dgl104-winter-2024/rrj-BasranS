@@ -21,6 +21,11 @@
    - Activity 1 - Assess external community contribution Guidelines
    - Activity 2 - Contribute to external community
    - Activity 3 - Contribute to pattern library
+
+4. Week 11
+   - Activity 1 - Read through pattern library issues
+   - Activity 2 - Continue Contributions to external community
+   - Activity 3 - Contribute to pattern library
 ----
 ----
 
@@ -362,7 +367,7 @@ To complete this activity, I thoroughly reviewed the issues in my chosen project
 
 1. What is the most surprising thing that you’ve learned about open source development and/or open source communities during your research this week?
 
-   The incredible level of collaboration of people from different background into a particular community. Also, I learnt about the overall process pf PR, issue searching and much more
+   The incredible level of collaboration of people from different background into a particular community. Also, I learnt about the overall process of PR, issue searching and much more
    in this week which is a great learning.   
    
 3. What types of open source projects do you find yourself most drawn to? Is there an obvious connection between them?
@@ -429,11 +434,43 @@ I followed all the steps starting from forking and cloning the project into my m
 ----
 ----
 
+
 ## Reflection
 
-* What is the hardest/most challenging thing you had to do this week for DGL 104? How did you overcome this challenge?
+What is the hardest/most challenging thing you had to do this week for DGL 104? How did you overcome this challenge?
 
-  For me, it is learning and exploring everything new is difficult, as it took me a lot of time to understand everything. Also, the challenging part is to decide contribution provide for project, search a issue and all that things.
+For me, it is learning and exploring everything new is difficult, as it took me a lot of time to understand everything. Also, the challenging part is to decide contribution provide 
+for project, search a issue and all that things.
+
+
+----
+----
+----
+
+## Week 11 ( Mar. 18)
+
+## Activity 1 - Read through pattern library Issues
+
+I checked out the pattern library repository, looked at all the open issues and pull requests, and left comments to assign the issues. 
+
+----
+----
+
+## Activity 2 - Continue contributions to external community
+
+----
+----
+
+## Activity 3 - Contribute to pattern library
+
+----
+----
+
+## Reflection
+
+Determine if your chosen programming language is OOP capable. To what extent does it support OOP? Fully, or partially? Does it support any other paradigms? Wikipedia has a good list of multi-paradigmatic programming languages.
+
+I choose javascript and it Partially capable of object-oriented programming (OOP). It supports OOP concepts like objects, inheritance, and encapsulation, but its implementation differs from traditional class-based languages. JavaScript also supports other paradigms such as functional programming.
 
 ----
 ----
