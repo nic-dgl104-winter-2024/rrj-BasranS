@@ -314,14 +314,15 @@ To complete this activity, I thoroughly reviewed the issues in my chosen project
 
   Label : Documentation, Contributor needed, Question
 
-   * Issue description - The issue was opened by user "toamitc" on Mar 1, 2021, expressing a need for a guide that provides a comparison of syntax supported between different types of 
-     charts. Specifically, they mentioned that while sequence diagrams support "-->>", flow charts do not. 
+   * Issue description - The issue was opened by user "toamitc" on Mar 1, 2021, expressing a need for a guide that provides a comparison 
+     of syntax supported between different types of charts. Specifically, they mentioned that while sequence diagrams support "-->>" flowcharts do not. 
 
-   * Contribution - Research syntax differences between chart types, compile a comparison guide, contribute to documentation updates, engage with community for feedback, and 
-     potentially suggest solutions for integration into existing documentation.
-     
-   * Conversations - Contributor "jgreywolf" acknowledged the idea and mentioned that it could be a valuable addition to the documentation. They suggested that the user could contribute 
-     to this effort if interested.
+   * Contribution - Research syntax differences between chart types, compile a comparison guide, contribute to documentation updates, 
+     engage with community for feedback, and potentially suggest solutions for integration into existing documentation.
+
+   * Conversations - Contributor "jgreywolf" acknowledged the idea and mentioned that it could be a valuable addition to the 
+     documentation. They suggested that the user could contribute to this effort if interested.
+
 ----
 
 * Project 2 : Swag-for-dev
@@ -329,11 +330,14 @@ To complete this activity, I thoroughly reviewed the issues in my chosen project
 
   Label : enhancement, good first issue, help wanted, in progress
 
-Issue description -The issue was opened by user "plibither8" on Oct 9, 2018, suggesting the addition of an applause button to swag items. This feature would allow users to express their approval or appreciation for a swag item by clicking on the applause button.
+    * Issue description -The issue was opened by user "plibither8" on Oct 9, 2018, suggesting the addition of an applause button to swag 
+      items. This feature would allow users to express their approval or appreciation for a swag item by clicking on the applause button.
 
-Contribution - Implement the applause button feature, integrate the library, modify swag item components, and update sorting functionality.
+    * Contribution - Implement the applause button feature, integrate the library, modify swag item components, and update sorting 
+      functionality.
 
-Conversations - They discuss implementation details and offer assistance, while newcomers inquire about the issue's status and express interest in contributing.
+    * Conversations - They discuss implementation details and offer assistance, while newcomers inquire about the issue's status and 
+      express interest in contributing.
 
 ----
 
