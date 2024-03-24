@@ -431,8 +431,9 @@ I followed all the steps starting from forking and cloning the project into my m
 
 ## Reflection
 
-## References 
+* What is the hardest/most challenging thing you had to do this week for DGL 104? How did you overcome this challenge?
 
+  For me, it is learning and exploring everything new is difficult, as it took me a lot of time to understand everything. Also, the challenging part is to decide contribution provide for project, search a issue and all that things.
 
 ----
 ----
