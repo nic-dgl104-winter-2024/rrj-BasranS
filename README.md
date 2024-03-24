@@ -405,7 +405,7 @@ The task is to see if the project has instructions on how to contribute. If it d
 
 ### Outcome
 
-Storybook provides detailed information about contribution in their [contribution guide](https://storybook.js.org/docs/contribute) and [CONTRIBUTING.md](https://github.com/storybookjs/storybook/blob/next/CONTRIBUTING.md). Also they provide a lot of useful information regarding their supportive communities and platforms with the information of their sponsors in their [Readme.md](https://github.com/storybookjs/storybook?tab=readme-ov-file#contributing).
+Storybook provides detailed information about contribution in their [contribution guide](https://storybook.js.org/docs/contribute) and [CONTRIBUTING.md](https://github.com/storybookjs/storybook/blob/next/CONTRIBUTING.md). Also they provide a lot of useful information regarding their supportive communities and platforms with the information of their sponsors in their [Readme.md](https://github.com/storybookjs/storybook?tab=readme-ov-file#contributing). They also provide contributor Covenant Code of Conduct information with [this](https://github.com/storybookjs/storybook/blob/next/CODE_OF_CONDUCT.md).
 
 There is a step by step procedure which one need to follow to participate as a contributor which include in contributing.md. They encourage newcomer to join them in contributing as their community is a harassment-free experience for everyone. They describe different ways to contribute in their contribution guide.
 
@@ -417,8 +417,6 @@ Overall, it seems like Storybook has put effort into creating a supportive and i
 ## Activity 2 - Contribute to external community
 
 I have chosen an issue from the Storybook project, for which I have forked and cloned the repository to my local machine. Subsequently, I have created a new branch dedicated to addressing this particular issue. My focus is on conducting thorough research and preparing comprehensive documentation for the identified issue. I have initiated the process of gathering necessary information to provide a well-documented and structured approach towards understanding and potentially resolving this problem.
-
-Here I provided the information regarding my contributions
 
 ----
 ----
