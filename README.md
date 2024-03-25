@@ -423,9 +423,11 @@ I have chosen an issue from the Storybook project, for which I have forked and c
 
 ## Activity 3 - Contribute to pattern library
 
-I have chosen the implementation of the Singleton pattern from the pattern library for this issue "Add React Native implementation for Singleton pattern #8" labelled with good first issue which can be found at [this link](https://github.com/nic-dgl104-winter-2024/pattern-library/issues/8)
+I have chosen the implementation of the Singleton pattern from the pattern library for this issue "Add React Native implementation for Singleton pattern #8" labelled with good first issues and code which can be found here [Issue 1](https://github.com/nic-dgl104-winter-2024/pattern-library/issues/8). 
 
-I followed all the steps starting from forking and cloning the project into my machine. Then, start working on it. I begin my research on this language.
+Also, I will participate in the documentation part as well for the issue "Write definition of Template pattern in README.md #66" labelled with research, good first issue and documentation which can be found here [Issue 2](https://github.com/nic-dgl104-winter-2024/pattern-library/issues/66).
+
+I followed all the steps starting from forking and cloning the project into my machine. Then, start working on it.
 
 ### [My Contribution document link](https://github.com/nic-dgl104-winter-2024/rrj-BasranS/blob/main/CONTRIBUTING.md)
 
