@@ -68,7 +68,7 @@ To contribute to an open-source project of community code part 1:
 
 ### Code Review and Outcome
 
-The documentation got reviewd by Baljit Singh, and he told me to add a section in my readme which describes some "Real-world examples" 
+The documentation got reviewed by Baljit Singh, and he told me to add a section in my readme which describes some "Real-world examples" 
 who uses compodoc documentation for the Angular projects which , I added now.
 
 ### Reflection on Success
