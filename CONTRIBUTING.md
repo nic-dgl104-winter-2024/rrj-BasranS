@@ -49,7 +49,7 @@ Supported Frameworks of Storybook which supports multiple frontend frameworks ar
 #### *Issue Labels*
 
 * angular
-* cli
+* CLI
 * documentation
 * good first issue
 * help wanted
@@ -80,6 +80,12 @@ who uses compodoc documentation for the Angular projects which , I added now.
 Upon successful completion of this issue, I gained some useful knowledge regarding a completely new topic Although, this is a documentation issue but, this needs a lot of research as, this topic is completely new to me and requires time to work upon. Also, I learned the importance of clear documentation. This experience emphasized the significance of seeking clarification, and advocating for change to drive positive outcomes and enhance the user experience.
 
 ### Project Contribution Links
+
+🔗 Project link  - [Storybook](https://github.com/storybookjs/storybook)
+
+🔗 Issue - [More clarity on what including compodoc does?](https://github.com/storybookjs/storybook/issues/24944)
+
+🔗 Forked Repository - [Storybook](https://github.com/BasranS/storybook/tree/compodoc_info)
 
 🔗 Contributor Covenant Code of Conduct - https://github.com/storybookjs/storybook?tab=coc-ov-file#readme
 
