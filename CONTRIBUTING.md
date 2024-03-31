@@ -115,20 +115,112 @@ As I gain knowledge on this topic, my curiosity drives me to seek further unders
 
 The "DGL 104 Pattern Library," which includes implementing common software design patterns and describing architecture patterns in various programming languages. Contributions must adhere to open-source project standards, including pull request submissions and issue management for students to contribute and learn.
 
-### Selected Issue 1 - [Add React Native Implementation for Singleton Pattern #8]()
+### Selected Issue 1 - [Add React Native Implementation for Singleton Pattern #8](https://github.com/nic-dgl104-winter-2024/pattern-library/issues/8)
 
-### About selected Issue 1 
+### ✨ About selected Issue 1 
 
 For this issue, I need to integrate the Singleton pattern into our React Native app. This pattern ensures that only one instance of a specific class exists in the entire application, which is beneficial for managing shared resources efficiently. By implementing the Singleton pattern, we can guarantee consistency and prevent resource wastage in our app.
 
+### Work Done
+
+## ✨ Sandhya Basran - Old pull request outcome
+
+The provided outcome is given by Sandhya Basran as an outcome for the initial pull request under file name "Mysingleton.js" along with a descriptive file which was "contribution.md" to specify everything about react- native and singleton.
+
+```javascript
+class MySingleton {
+  static instance;
+
+  constructor() {
+    if (MySingleton.instance) {
+      throw new Error("Singleton instance already exists. Use getInstance method.");
+    }
+
+    this.myProperty = "Initial Value";
+
+    MySingleton.instance = this;
+    Object.freeze(MySingleton.instance);
+  }
+
+  static getInstance() {
+    if (!MySingleton.instance) {
+      MySingleton.instance = new MySingleton();
+    }
+    return MySingleton.instance;
+  }
+
+  myMethod() {
+    console.log('Singleton method has been called.');
+  }
+
+  anotherMethod() {
+    console.log('Another method of the Singleton has been called.');
+  }
+}
+
+// Usage in a React Native component
+import React, { Component } from 'react';
+import { View, Text, Button } from 'react-native';
+
+export default class MyComponent extends Component {
+  constructor(props) {
+    super(props);
+
+    // Get the singleton instance
+    this.singletonInstance = MySingleton.getInstance();
+  }
+
+  handleButtonClick = () => {
+    // Call methods of the singleton instance
+    this.singletonInstance.myMethod();
+    this.singletonInstance.anotherMethod();
+  };
+
+  render() {
+    return (
+      <View>
+        <Text>React Native Singleton Example</Text>
+        <Button title="Call Singleton Methods" onPress={this.handleButtonClick} />
+      </View>
+    );
+  }
+}
+```
+
+----
+----
+
+### Code Review and Outcomes
+
+Sumit Joshi did my code review for 
+
+
+### Reflection on success
+
+
+### Next steps 
+
 -----
 -----
 
-## Project - [Pattern Library](https://github.com/nic-dgl104-winter-2024/pattern-library)
+## Selected Issue 2 - [Write definition of Template pattern in README.md](https://github.com/nic-dgl104-winter-2024/pattern-library/issues/66)
 
-## Selected Issue 2 - Write definition of Template pattern in README.md 
-
-### About selected Issue 2
+### ✨ About selected Issue 2
 
 For the issue "Write definition of Strategy pattern in README.md," I need to add a section to the README.md file of the "DGL 104 Pattern Library" project. This section should provide a clear and concise definition of the Strategy pattern, including its purpose, benefits, how it works, implementation guidelines, and example use cases. Ensure that the information is easy to understand and relevant for other developers using the library. Once added, commit the changes to the repository.
 
+### ✨ Work Done
+
+
+----
+----
+
+To contribute to an open-source project of community code part 2:
+
+### Code Review and Outcomes
+
+
+### Reflection on success
+
+
+### Next steps 
