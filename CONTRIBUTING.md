@@ -109,11 +109,18 @@ As I gain knowledge on this topic, my curiosity drives me to seek further unders
 
 # Community Code Contribution Information - Part two
 
-## Project - [Pattern Library](https://github.com/nic-dgl104-winter-2024/pattern-library)
+##  Project - [Pattern Library](https://github.com/nic-dgl104-winter-2024/pattern-library)
 
 ###  📘 About Pattern Library
 
 The "DGL 104 Pattern Library," which includes implementing common software design patterns and describing architecture patterns in various programming languages. Contributions must adhere to open-source project standards, including pull request submissions and issue management for students to contribute and learn.
+
+----
+----
+
+## Contribution Details - Issue 1
+
+### Forked Repository link - [Pattern library](https://github.com/BasranS/pattern-library/tree/react_native_development)
 
 ### Selected Issue 1 - [Add React Native Implementation for Singleton Pattern #8](https://github.com/nic-dgl104-winter-2024/pattern-library/issues/8)
 
@@ -121,22 +128,26 @@ The "DGL 104 Pattern Library," which includes implementing common software desig
 
 For this issue, I need to integrate the Singleton pattern into our React Native app. This pattern ensures that only one instance of a specific class exists in the entire application, which is beneficial for managing shared resources efficiently. By implementing the Singleton pattern, we can guarantee consistency and prevent resource wastage in our app.
 
-### Contributors 
+### 🤝 Contributors 
 
 * Baljit Singh
 * Anjitha Karuthara Balakrishnan
 * Sandhya Basran
 
-### Work Done
+### ✅ Work Done
 
 1. I choose this issue, by filtering with some labels and then, fork and clone it into my machine.
-2. After that, I create a branch with name react_native_development.
-3. For this issue , I submit two pull request, one is my individual work
-4. The second pull request is our group work as we are three working together on this issue
+2. Next, I made a separate area for working on this specific problem called "react_native_development."
+3. For this issue , I submit two pull request, one is my individual work and another is group work.
+4. We meet and talked about the feedback had made about our first pull request and address that changes to create a new PR.
+5. Then, I commit and push the work to Github.
+   
+#### *The new Pull request is submitted from my forked repository*
 
 ### ✨ Old pull request outcome
 
-The provided outcome is given by Sandhya Basran as an outcome for the initial pull request under file name "Mysingleton.js" along with a descriptive file which was "contribution.md" to specify everything about react- native and singleton.
+The provided is an outcome for the initial pull request under file name ["Mysingleton.js"](https://github.com/nic-dgl104-winter-2024/pattern-library/pull/78/files#diff-9661ab57d9f2b6c54092f1932b3648dc02ff052090b0e38776bd9615873382b9) along with a descriptive file which was ["contribution.md"](https://github.com/nic-dgl104-winter-2024/pattern-library/pull/78/files#diff-d71aa3d73d3ffd03dc7f7c6f82b7bdbf959553dcf9a6ea49a29de26298515cfa) to specify everything about react- native and singleton.
+
 
 ```javascript
 class MySingleton {
@@ -201,20 +212,92 @@ export default class MyComponent extends Component {
 ----
 ----
 
-### Code Review and Outcomes
+### ✨ New Pull Request
 
-Sumit Joshi did my code review for 
+For new pull request, we decided to go with three different files named as ["Singleton_pattern.js"](https://github.com/nic-dgl104-winter-2024/pattern-library/pull/102/files#diff-208f2b77c3d1f613176baed8f41459236850d5af18e85511b17c2496dede4058) which is for the react native code. Another one is a readme file under name ["Singleton_readme.md"](https://github.com/nic-dgl104-winter-2024/pattern-library/pull/102/files#diff-81a32c10935e99a34d714d440765b96736e61833cef70ffb2fd45ae97e0e8754) to describe all about react-native for singleton pattern implementation. Lastly, we create a contribution file to describe our contributions for the outcome of this issue with name ["Singleton_contribution.md"](https://github.com/nic-dgl104-winter-2024/pattern-library/pull/102/files#diff-54eb7ab7f0213e47979aa159587146d611beace7f8125ff48b1bdf02c3e49b3e)
+
+Here is the final outcome in support of this issue
+
+```javascript
+// SingletonExample.js
+
+import React, { Component } from 'react';
+import { View, Text, Button } from 'react-native';
+
+class MySingleton {
+  constructor() {
+    if (MySingleton.instance) {
+      return MySingleton.instance;
+    }
+    MySingleton.instance = this;
+
+    // Initialize properties
+    this.myProperty = "Initial Value";
+  }
+
+  // Instance method example
+  myMethod() {
+    console.log('Singleton method has been called.');
+  }
+
+  // Another instance method example
+  anotherMethod() {
+    console.log('Another method of the Singleton has been called.');
+  }
+
+  // Static method to get instance
+  static getInstance() {
+    if (!MySingleton.instance) {
+      MySingleton.instance = new MySingleton();
+    }
+    return MySingleton.instance;
+  }
+}
+
+class SingletonExample extends Component {
+  constructor(props) {
+    super(props);
+
+    // Get the Singleton instance
+    this.singletonInstance = MySingleton.getInstance();
+  }
+
+  render() {
+    return (
+      <View>
+        <Text>Singleton Example Component</Text>
+        <Text>Property value: {this.singletonInstance.myProperty}</Text>
+        <Button
+          title="Call Singleton Method"
+          onPress={() => this.singletonInstance.myMethod()}
+        />
+      </View>
+    );
+  }
+}
+
+export default SingletonExample;
+```
+
+### ✨ Code Review and Outcomes
+
+Sumit Joshi did our code review for this issue. We met at college for the discussion on this issue. He suggest us to do some changes in the code. As, in my first pull request, I gave the react native code after the conse.log statement. He told me add it from the starting of the code to enhance its structure and clarity as well. 
+
+Also, I got bunch of reviews from my last pull request regarding some changes suggested for the contribution.md file which is to remove anything not directly related to React Native for the singleton pattern, like the benefits section. Also, advised to properly formatting references in the README file according to MLA or APA style, and using hyperlinks where needed. Additionally, there is recommendations including a relevant example in the README, properly formatted with triple backticks.
 
 
-### Reflection on success
+### ✨ Reflection on success
 
-
-### Next steps 
+Through implementing the Singleton pattern, I have learned how to ensure only one instance of a class exists in the React Native application. This experience has also taught you about effective code organization, instance management, event handling, and the reflection on design pattern choices for future projects.
 
 -----
 -----
 
-## Selected Issue 2 - [Write definition of Template pattern in README.md](https://github.com/nic-dgl104-winter-2024/pattern-library/issues/66)
+## Contribution Details - Issue 2
+
+### Forked Repository link - [Pattern library](https://github.com/BasranS/pattern-library/tree/template_pattern_docs)
+
+### Selected Issue 2 - [Write definition of Template pattern in README.md](https://github.com/nic-dgl104-winter-2024/pattern-library/issues/66)
 
 ### ✨ About selected Issue 2
 
@@ -234,4 +317,3 @@ To contribute to an open-source project of community code part 2:
 ### Reflection on success
 
 
-### Next steps 
