@@ -116,7 +116,7 @@ As I gain knowledge on this topic, my curiosity drives me to seek further unders
 The "DGL 104 Pattern Library," which includes implementing common software design patterns and describing architecture patterns in various programming languages. Contributions must adhere to open-source project standards, including pull request submissions and issue management for students to contribute and learn.
 
 ----
-----
+
 
 ## Contribution Details - Issue 1
 
@@ -316,4 +316,16 @@ To contribute to an open-source project of community code part 2:
 
 ### Reflection on success
 
+
+## References
+
+🔗 Project link - [Pattern Library](https://github.com/nic-dgl104-winter-2024/pattern-library)
+
+🔗 Forked Repository for Issue 1 - [Pattern Library](https://github.com/BasranS/pattern-library/tree/react_native_development)
+
+🔗 Forked Repository for Issue 2 - [Pattern Library](https://github.com/BasranS/pattern-library/tree/template_pattern_doc)
+
+🔗 Issue 1 - [Add React Native Implementation for Singleton Pattern #8](https://github.com/nic-dgl104-winter-2024/pattern-library/issues/8)
+
+🔗 Selected Issue 2 - [Write definition of Template pattern in README.md](https://github.com/nic-dgl104-winter-2024/pattern-library/issues/66)
 
