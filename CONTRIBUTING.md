@@ -36,7 +36,9 @@ Contributing to Storybook is welcomed and encouraged, with various avenues avail
 
 ### 📘 About Storybook
 
- Storybook is like a workshop for frontend developers where they can build, test, and showcase individual pieces of a website or app (called UI components) without needing to put them together in the entire project. It helps developers work on these pieces faster and more easily, making sure they look and behave as intended before putting them into the final project.
+ Storybook is like a workshop for frontend developers where they can build, test, and showcase individual pieces of a website or app (called UI components) without needing to put them together in the entire project. It helps developers work on these pieces faster and more easily, making sure they look and behave as intended before putting them into the final project.  Storybook boasts an active and vibrant community of developers who contribute to its development, share knowledge, and provide support through platforms like GitHub Discussions, Discord, blogging, and social media channels. Storybook receives support from sponsors and backers who contribute financially to the project's development and maintenance. It also operates under the MIT license, allowing for widespread adoption and usage.
+
+Supported Frameworks of Storybook which supports multiple frontend frameworks are React, Angular, Vue.js, Svelte, Ember, Preact, and others. It also extends support to mobile development frameworks like React Native and native mobile platforms like Android, iOS, and Flutter.
 
 ## 🤝 Contribution Details
 
