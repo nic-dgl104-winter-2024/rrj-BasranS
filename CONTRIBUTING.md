@@ -79,9 +79,6 @@ who uses compodoc documentation for the Angular projects which , I added now.
 
 Upon successful completion of this issue, I gained some useful knowledge regarding a completely new topic Although, this is a documentation issue but, this needs a lot of research as, this topic is completely new to me and requires time to work upon. Also, I learned the importance of clear documentation. This experience emphasized the significance of seeking clarification, and advocating for change to drive positive outcomes and enhance the user experience.
 
-### Next Steps
-
-
 ### Project Contribution Links
 
 🔗 Contributor Covenant Code of Conduct - https://github.com/storybookjs/storybook?tab=coc-ov-file#readme
@@ -91,3 +88,8 @@ Upon successful completion of this issue, I gained some useful knowledge regardi
 🔗 Contribution.md - https://github.com/storybookjs/storybook/blob/next/CONTRIBUTING.md
 
 🔗 Contribution guidelines - https://storybook.js.org/docs/contribute
+
+-----
+-----
+
+# Community Code Contribution Information - Part two
