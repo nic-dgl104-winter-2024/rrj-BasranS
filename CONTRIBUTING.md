@@ -27,6 +27,16 @@ Contributing to Storybook is welcomed and encouraged, with various avenues avail
 
 7. Contributing to Storybook - For further guidance on contributing, refer to the NEW contributing guide on the Storybook website.
 
+### References
+
+🔗 Contributor Covenant Code of Conduct - https://github.com/storybookjs/storybook?tab=coc-ov-file#readme
+
+🔗 Readme.md - https://github.com/storybookjs/storybook?tab=readme-ov-file#contributing
+
+🔗 Contribution.md - https://github.com/storybookjs/storybook/blob/next/CONTRIBUTING.md
+
+🔗 Contribution guidelines - https://storybook.js.org/docs/contribute
+
 ----
 ----
 
@@ -86,14 +96,6 @@ Upon successful completion of this issue, I gained some useful knowledge regardi
 🔗 Issue - [More clarity on what including compodoc does?](https://github.com/storybookjs/storybook/issues/24944)
 
 🔗 Forked Repository - [Storybook](https://github.com/BasranS/storybook/tree/compodoc_info)
-
-🔗 Contributor Covenant Code of Conduct - https://github.com/storybookjs/storybook?tab=coc-ov-file#readme
-
-🔗 Readme.md - https://github.com/storybookjs/storybook?tab=readme-ov-file#contributing
-
-🔗 Contribution.md - https://github.com/storybookjs/storybook/blob/next/CONTRIBUTING.md
-
-🔗 Contribution guidelines - https://storybook.js.org/docs/contribute
 
 -----
 -----
