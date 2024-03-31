@@ -1,10 +1,4 @@
-# External Communitiy Contribution Guidelines for selected Project
-
-## Project - Storybook
-
-### 📘 About Storybook
-
-[Storybook](https://github.com/storybookjs/storybook?tab=readme-ov-file) is like a workshop for frontend developers where they can build, test, and showcase individual pieces of a website or app (called UI components) without needing to put them together in the entire project. It helps developers work on these pieces faster and more easily, making sure they look and behave as intended before putting them into the final project.
+# External Communitiy Contribution Guidelines for selected Project - Part one
 
 ### 🤝 Contributor Covenant Code of Conduct
 
@@ -13,7 +7,6 @@ This Contributor Covenant sets out the rules for how everyone in our community s
 ### 🤝 Contribution guidelines
 
 Contributing to Storybook is welcomed and encouraged, with various avenues available for participation. Whether through proposing new features via the RFC process, submitting code for bug fixes and enhancements, integrating Storybook with new frameworks, improving documentation, providing examples, or developing addons, there are numerous ways to get involved. If you're unsure where to start, consider exploring existing issues and pull requests, joining community discussions, seeking guidance from project maintainers, and familiarizing with the project's guidelines is recommended. 
-
 
 ### 🤝 Step by Step Procedure to contribute
 
@@ -35,6 +28,15 @@ Contributing to Storybook is welcomed and encouraged, with various avenues avail
 7. Contributing to Storybook - For further guidance on contributing, refer to the NEW contributing guide on the Storybook website.
 
 ----
+----
+
+# Community Code Contribution Information - Part one
+
+## Project - [Storybook](https://github.com/storybookjs/storybook?tab=readme-ov-file)
+
+### 📘 About Storybook
+
+ Storybook is like a workshop for frontend developers where they can build, test, and showcase individual pieces of a website or app (called UI components) without needing to put them together in the entire project. It helps developers work on these pieces faster and more easily, making sure they look and behave as intended before putting them into the final project.
 
 ## 🤝 Contribution Details
 
@@ -42,7 +44,7 @@ Contributing to Storybook is welcomed and encouraged, with various avenues avail
 
 ### Choosen Issue - [More clarity on what including compodoc does?](https://github.com/storybookjs/storybook/issues/24944)
 
-#### *Issue Tags*
+#### *Issue Labels*
 
 * angular
 * cli
