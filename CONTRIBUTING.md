@@ -108,3 +108,27 @@ As I gain knowledge on this topic, my curiosity drives me to seek further unders
 -----
 
 # Community Code Contribution Information - Part two
+
+## Project - [Pattern Library](https://github.com/nic-dgl104-winter-2024/pattern-library)
+
+###  📘 About Pattern Library
+
+The "DGL 104 Pattern Library," which includes implementing common software design patterns and describing architecture patterns in various programming languages. Contributions must adhere to open-source project standards, including pull request submissions and issue management for students to contribute and learn.
+
+### Selected Issue 1 - [Add React Native Implementation for Singleton Pattern #8]()
+
+### About selected Issue 1 
+
+For this issue, I need to integrate the Singleton pattern into our React Native app. This pattern ensures that only one instance of a specific class exists in the entire application, which is beneficial for managing shared resources efficiently. By implementing the Singleton pattern, we can guarantee consistency and prevent resource wastage in our app.
+
+-----
+-----
+
+## Project - [Pattern Library](https://github.com/nic-dgl104-winter-2024/pattern-library)
+
+## Selected Issue 2 - Write definition of Template pattern in README.md 
+
+### About selected Issue 2
+
+For the issue "Write definition of Strategy pattern in README.md," I need to add a section to the README.md file of the "DGL 104 Pattern Library" project. This section should provide a clear and concise definition of the Strategy pattern, including its purpose, benefits, how it works, implementation guidelines, and example use cases. Ensure that the information is easy to understand and relevant for other developers using the library. Once added, commit the changes to the repository.
+
