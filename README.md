@@ -451,12 +451,17 @@ for project, search a issue and all that things.
 
 ## Activity 1 - Read through pattern library Issues
 
-I checked out the pattern library repository, looked at all the open issues and pull requests, and left comments to assign the issues. 
+I checked out the pattern library repository, looked at all the open issues and pull requests, and left comments to assign the issues and got assigned to these two issue.
+
+Selected Issue 1 - [Add React Native Implementation for Singleton Pattern #8](https://github.com/nic-dgl104-winter-2024/pattern-library/issues/8)
+
+Selected Issue 2 - [Write definition of Template pattern in README.md](https://github.com/nic-dgl104-winter-2024/pattern-library/issues/66)
 
 ----
 ----
 
 ## Activity 2 - Continue contributions to external community
+
 
 ----
 ----
