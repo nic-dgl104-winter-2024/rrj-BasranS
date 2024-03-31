@@ -121,9 +121,20 @@ The "DGL 104 Pattern Library," which includes implementing common software desig
 
 For this issue, I need to integrate the Singleton pattern into our React Native app. This pattern ensures that only one instance of a specific class exists in the entire application, which is beneficial for managing shared resources efficiently. By implementing the Singleton pattern, we can guarantee consistency and prevent resource wastage in our app.
 
+### Contributors 
+
+* Baljit Singh
+* Anjitha Karuthara Balakrishnan
+* Sandhya Basran
+
 ### Work Done
 
-## ✨ Sandhya Basran - Old pull request outcome
+1. I choose this issue, by filtering with some labels and then, fork and clone it into my machine.
+2. After that, I create a branch with name react_native_development.
+3. For this issue , I submit two pull request, one is my individual work
+4. The second pull request is our group work as we are three working together on this issue
+
+### ✨ Old pull request outcome
 
 The provided outcome is given by Sandhya Basran as an outcome for the initial pull request under file name "Mysingleton.js" along with a descriptive file which was "contribution.md" to specify everything about react- native and singleton.
 
