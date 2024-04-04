@@ -144,7 +144,7 @@ For this issue, I need to integrate the Singleton pattern into our React Native 
    
 #### *The new Pull request is submitted from my forked repository*
 
-### ✨ Old pull request outcome
+### ✨ [Old pull request outcome](https://github.com/nic-dgl104-winter-2024/pattern-library/pull/78)
 
 The provided is an outcome for the initial pull request under file name ["Mysingleton.js"](https://github.com/nic-dgl104-winter-2024/pattern-library/pull/78/files#diff-9661ab57d9f2b6c54092f1932b3648dc02ff052090b0e38776bd9615873382b9) along with a descriptive file which was ["contribution.md"](https://github.com/nic-dgl104-winter-2024/pattern-library/pull/78/files#diff-d71aa3d73d3ffd03dc7f7c6f82b7bdbf959553dcf9a6ea49a29de26298515cfa) to specify everything about react- native and singleton.
 
@@ -212,7 +212,7 @@ export default class MyComponent extends Component {
 ----
 ----
 
-### ✨ New Pull Request
+### ✨ [New Pull Request](https://github.com/nic-dgl104-winter-2024/pattern-library/pull/102*)
 
 For new pull request, we decided to go with three different files named as ["Singleton_pattern.js"](https://github.com/nic-dgl104-winter-2024/pattern-library/pull/102/files#diff-208f2b77c3d1f613176baed8f41459236850d5af18e85511b17c2496dede4058) which is for the react native code. Another one is a readme file under name ["Singleton_readme.md"](https://github.com/nic-dgl104-winter-2024/pattern-library/pull/102/files#diff-81a32c10935e99a34d714d440765b96736e61833cef70ffb2fd45ae97e0e8754) to describe all about react-native for singleton pattern implementation. Lastly, we create a contribution file to describe our contributions for the outcome of this issue with name ["Singleton_contribution.md"](https://github.com/nic-dgl104-winter-2024/pattern-library/pull/102/files#diff-54eb7ab7f0213e47979aa159587146d611beace7f8125ff48b1bdf02c3e49b3e)
 
@@ -279,6 +279,7 @@ class SingletonExample extends Component {
 export default SingletonExample;
 ```
 
+
 ### ✨ Code Review and Outcomes
 
 Sumit Joshi did our code review for this issue. We met at college for the discussion on this issue. He suggest us to do some changes in the code. As, in my first pull request, I gave the react native code after the conse.log statement. He told me add it from the starting of the code to enhance its structure and clarity as well. 
@@ -305,17 +306,26 @@ For the issue "Write definition of Strategy pattern in README.md," I need to add
 
 ### ✨ Work Done
 
+* I choose this issue, forked and cloneed it into my machine.
 
+* Next, I made a separate branch for working on this specific problem called "template_pattern_docs."
+
+* * I made two files to work on this issue with name [template_readme.md](https://github.com/nic-dgl104-winter-2024/pattern-library/pull/93/files#diff-fc543987130c346630fe834fd3665f2e4054ae913cb445652c08d6e671e9486c) to give my solved issue content and [template_contribution.md](https://github.com/nic-dgl104-winter-2024/pattern-library/pull/93/files#diff-34d4e62b0c453609a0363b1016d4053e4e2747de1fa63e17f64f2d0250a9a883) file to describe my contribution.
+
+* For this issue , I submit two pull request, I submitted a pull request on which I got some changes requested to be done. [Write definition of Template pattern in README.md #66 #93](https://github.com/nic-dgl104-winter-2024/pattern-library/pull/93).
+
+* Changes Requested 
+   * Remove the issue link from readme file.
+   * Change the structure in the components section.
+
+* I did the changes and commit and push the work to Github.
+  
 ----
 ----
-
-To contribute to an open-source project of community code part 2:
 
 ### Code Review and Outcomes
 
-
-### Reflection on success
-
+The work also got reviewed by Bhoomi and she do not have any suggestion on the work. She found it well written.
 
 ## References
 
