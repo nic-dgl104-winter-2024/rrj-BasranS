@@ -467,14 +467,14 @@ Selected Issue 2 - [Write definition of Template pattern in README.md](https://g
 
 ## Activity 2 - Continue contributions to external community
 
-To work upon the external community issue, I forked and cloned the original repository into my machine and create a different branch with name "compodoc_readme.md" and also one more file to show how and what I did for the contribution in this issue. I choose [storybook](https://github.com/storybookjs/storybook) to work upon in which, I selected this issue [More clarity on what including compodoc does? #24944](https://github.com/storybookjs/storybook/issues/24944). I ensure to provide a clear documentation to get more clarity on compodoc for which, I researched a lot and provide all the reference along with my work in the readme.md file.
+To work upon the external community issue, I forked and cloned the original repository into my machine and create a different branch with name "compodoc_readme.md" and also one more file to show how and what I did for the contribution in this issue. I choose [storybook](https://github.com/storybookjs/storybook) to work upon in which, I selected this issue [More clarity on what including compodoc does? #24944](https://github.com/storybookjs/storybook/issues/24944). I ensure to provide a clear documentation to get more clarity on compodoc for which, I continued my researched and write the definition of this tool into my readme file and  then provide all the necessary information with reference in the readme.md file.
 
 ----
 ----
 
 ## Activity 3 - Contribute to pattern library
 
-To work upon the pattern library assigned issue, firstly I forked and cloned the original repository into my machine and create different branch for both of them to begin working. For first [issue](https://github.com/nic-dgl104-winter-2024/pattern-library/issues/8), I establish a branch with name react_native_development and made two files which are "singleton.js" and "singleton_readme.md". Also, as we are three who is going to work on this particular issue so, we also made a contribution.md file as well to showcase our parts for this issue contribution. 
+To work upon the pattern library assigned issue, I create different branch for both of them to begin working. For first [issue](https://github.com/nic-dgl104-winter-2024/pattern-library/issues/8), I establish a branch with name react_native_development and made two files which are "singleton.js" and "singleton_readme.md". Also, as we are three who is going to work on this particular issue so, we also made a contribution.md file as well to showcase our parts for this issue contribution. 
 
 For the second [issue](https://github.com/nic-dgl104-winter-2024/pattern-library/issues/66), I initiated a new branch named "template_pattern_docs" and crafted two essential files which is "template_readme.md" and "template_contribution.md". These documents serve to illustrate my work and contributions towards addressing the specified issue.
 
