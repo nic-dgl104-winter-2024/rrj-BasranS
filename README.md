@@ -28,7 +28,7 @@
    - Activity 3 - Contribute to pattern library
 
 5. Week 12
-   - Activity  -  Community Code assignment links
+   - Activity 1 -  Community Code assignment links
 ----
 ----
 
