@@ -508,7 +508,3 @@ I choose javascript and it Partially capable of object-oriented programming (OOP
 * Then, I commit and push my work into Github.
 
 
-## Reflections
-
-
-
