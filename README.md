@@ -26,6 +26,9 @@
    - Activity 1 - Read through pattern library issues
    - Activity 2 - Continue Contributions to external community
    - Activity 3 - Contribute to pattern library
+
+5. Week 12
+   - Activity  -  Community Code assignment links
 ----
 ----
 
@@ -423,13 +426,7 @@ I have chosen an issue from the Storybook project, for which I have forked and c
 
 ## Activity 3 - Contribute to pattern library
 
-I have chosen the implementation of the Singleton pattern from the pattern library for this issue "Add React Native implementation for Singleton pattern #8" labelled with good first issues and code which can be found here [Issue 1](https://github.com/nic-dgl104-winter-2024/pattern-library/issues/8). 
-
-Also, I will participate in the documentation part as well for the issue "Write definition of Template pattern in README.md #66" labelled with research, good first issue and documentation which can be found here [Issue 2](https://github.com/nic-dgl104-winter-2024/pattern-library/issues/66).
-
-I followed all the steps starting from forking and cloning the project into my machine. Then, start working on it.
-
-### [My Contribution document link](https://github.com/nic-dgl104-winter-2024/rrj-BasranS/blob/main/CONTRIBUTING.md)
+I have chosen the implementation of the Singleton pattern from the pattern library for this issue "Add React Native implementation for Singleton pattern #8" labelled with good first issues and code which can be found here [Issue 1](https://github.com/nic-dgl104-winter-2024/pattern-library/issues/8). I give request to got this issue assigned to me.
 
 ----
 ----
@@ -456,18 +453,16 @@ Project Repostory - [Storybook](https://github.com/storybookjs/storybook)
 
 ## Activity 1 - Read through pattern library Issues
 
-I checked out the pattern library repository, looked at all the open issues and pull requests, and left comments to assign the issues and got assigned to these two issue.
+The issue , I request for got assigned and then I just request for another issue to got assigned. Basically I am particpating in both coding and documentation part for the internal community project. The internal community issues in which I am participated are "Write definition of Template pattern in README.md #66" labelled with research, good first issue and which can be found here [Issue 2](https://github.com/nic-dgl104-winter-2024/pattern-library/issues/66) and the implementation of the Singleton pattern from the pattern library for this issue "Add React Native implementation for Singleton pattern #8" labelled with good first issues and code which can be found here [Issue 1](https://github.com/nic-dgl104-winter-2024/pattern-library/issues/8). I forked and cloned the project into my machine already and begin working on first issue.
 
-Selected Issue 1 - [Add React Native Implementation for Singleton Pattern #8](https://github.com/nic-dgl104-winter-2024/pattern-library/issues/8)
-
-Selected Issue 2 - [Write definition of Template pattern in README.md](https://github.com/nic-dgl104-winter-2024/pattern-library/issues/66)
+### [My Contribution document link](https://github.com/nic-dgl104-winter-2024/rrj-BasranS/blob/main/CONTRIBUTING.md)
 
 ----
 ----
 
 ## Activity 2 - Continue contributions to external community
 
-To work upon the external community issue, I forked and cloned the original repository into my machine and create a different branch with name "compodoc_readme.md" and also one more file to show how and what I did for the contribution in this issue. I choose [storybook](https://github.com/storybookjs/storybook) to work upon in which, I selected this issue [More clarity on what including compodoc does? #24944](https://github.com/storybookjs/storybook/issues/24944). I ensure to provide a clear documentation to get more clarity on compodoc for which, I continued my researched and write the definition of this tool into my readme file and  then provide all the necessary information with reference in the readme.md file.
+To work upon the external community issue, I forked and cloned the original repository into my machine and create a different branch with name "compodoc_info" and also one more file to show how and what I did for the contribution in this issue. I choose [storybook](https://github.com/storybookjs/storybook) to work upon in which, I selected this issue [More clarity on what including compodoc does? #24944](https://github.com/storybookjs/storybook/issues/24944). I ensure to provide a clear documentation to get more clarity on compodoc for which, I continued my researched and write the definition of this tool into my readme file and  then provide all the necessary information with reference in the readme.md file.
 
 ----
 ----
@@ -490,3 +485,30 @@ I choose javascript and it Partially capable of object-oriented programming (OOP
 ----
 ----
 ----
+
+## Week 12 (WEEK OF MARCH 25)
+
+### Community code assignment links - part one
+
+* I choose an issue to work upon by filtering with different labels in different project but, I selected [storybook](https://github.com/storybookjs/storybook)  to work upon in this issue [More clarity on what including compodoc does? #24944](https://github.com/storybookjs/storybook/issues/24944).
+* Then, I [forked](https://github.com/BasranS/storybook/tree/compodoc_info) and cloned the project into my machine.
+* After that, I establish a branch with name "compodoc_info".
+* Subsequently I made two files "compodoc_readme.md" and "compodoc_contribution.md".
+* Then, I commit and push my work into Github.
+
+
+### Community code assignment links - part two
+
+* I choose an issue to work upon and request to get assigned to work upon these issues [Add React Native implementation for Singleton pattern #8](https://github.com/nic-dgl104-winter-2024/pattern-library/issues/8) and [Write definition of Template pattern in README.md #66
+](https://github.com/nic-dgl104-winter-2024/pattern-library/issues/66).
+* Then, I forked and cloned the project into my machine.
+* After that, I establish a branch with the names ["react_native_development"](https://github.com/BasranS/pattern-library/tree/react_native_development) and ["template_pattern_docs"](https://github.com/BasranS/pattern-library/tree/template_pattern_docs).
+* Subsequently I made two files for both issue.
+* I got request to change some content in both issues which, I elaborate in my [contribution.md](https://github.com/nic-dgl104-winter-2024/rrj-BasranS/blob/main/CONTRIBUTING.md) file.
+* Then, I commit and push my work into Github.
+
+
+## Reflections
+
+
+
