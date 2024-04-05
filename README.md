@@ -474,7 +474,7 @@ To work upon the external community issue, I forked and cloned the original repo
 
 ## Activity 3 - Contribute to pattern library
 
-To work upon the pattern library assigned issue, firstly I forked and cloned the original repository into my machine and create different branch for both of them to begin working. For first [issue](https://github.com/nic-dgl104-winter-2024/pattern-library/issues/8), I establish a branch with name react_native_development and made three files as we are three who is going to work on this particular issue so, we also made a contribution.md file as well to showcase our parts for this issue contribution. 
+To work upon the pattern library assigned issue, firstly I forked and cloned the original repository into my machine and create different branch for both of them to begin working. For first [issue](https://github.com/nic-dgl104-winter-2024/pattern-library/issues/8), I establish a branch with name react_native_development and made two files which are "singleton.js" and "singleton_readme.md". Also, as we are three who is going to work on this particular issue so, we also made a contribution.md file as well to showcase our parts for this issue contribution. 
 
 For the second [issue](https://github.com/nic-dgl104-winter-2024/pattern-library/issues/66), I initiated a new branch named "template_pattern_docs" and crafted two essential files which is "template_readme.md" and "template_contribution.md". These documents serve to illustrate my work and contributions towards addressing the specified issue.
 
