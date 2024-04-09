@@ -118,7 +118,7 @@ The "DGL 104 Pattern Library," which includes implementing common software desig
 ----
 
 
-## Contribution Details - Issue 1
+## 🤝 Contribution Details - Issue 1
 
 ### Forked Repository link - [Pattern library](https://github.com/BasranS/pattern-library/tree/react_native_development)
 
@@ -136,11 +136,11 @@ For this issue, I need to integrate the Singleton pattern into our React Native 
 
 ### ✅ Work Done
 
-1. I choose this issue, by filtering with some labels and then, fork and clone it into my machine.
-2. Next, I made a separate area for working on this specific problem called "react_native_development."
-3. For this issue , I submit two pull request, one is my individual work and another is group work.
-4. We meet and talked about the feedback had made about our first pull request and address that changes to create a new PR.
-5. Then, I commit and push the work to Github.
+* I choose this issue, by filtering with some labels and then, fork and clone it into my machine.
+* Next, I made a separate area for working on this specific problem called "react_native_development."
+* For this issue , I submit two pull request, one is my individual work and another is group work.
+* We meet and talked about the feedback had made about our first pull request and address that changes to create a new PR.
+* Then, I commit and push the work to Github.
    
 #### *The new Pull request is submitted from my forked repository*
 
@@ -294,7 +294,7 @@ Through implementing the Singleton pattern, I have learned how to ensure only on
 -----
 -----
 
-## Contribution Details - Issue 2
+## 🤝 Contribution Details - Issue 2
 
 ### Forked Repository link - [Pattern library](https://github.com/BasranS/pattern-library/tree/template_pattern_docs)
 
@@ -307,17 +307,12 @@ For the issue "Write definition of Strategy pattern in README.md," I need to add
 ### ✨ Work Done
 
 * I choose this issue, forked and cloneed it into my machine.
-
 * Next, I made a separate branch for working on this specific problem called "template_pattern_docs."
-
 * I made two files to work on this issue with name [template_readme.md](https://github.com/nic-dgl104-winter-2024/pattern-library/pull/93/files#diff-fc543987130c346630fe834fd3665f2e4054ae913cb445652c08d6e671e9486c) to give my solved issue content and [template_contribution.md](https://github.com/nic-dgl104-winter-2024/pattern-library/pull/93/files#diff-34d4e62b0c453609a0363b1016d4053e4e2747de1fa63e17f64f2d0250a9a883) file to describe my contribution.
-
 * For this issue , I submit two pull request, I submitted a pull request on which I got some changes requested to be done. [Write definition of Template pattern in README.md #66 #93](https://github.com/nic-dgl104-winter-2024/pattern-library/pull/93).
-
 * Changes Requested 
    * Remove the issue link from readme file.
    * Change the structure in the components section.
-
 * I did the changes and commit and push the work to Github.
   
 ----
