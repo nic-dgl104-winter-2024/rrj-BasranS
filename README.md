@@ -516,6 +516,20 @@ I choose javascript and it Partially capable of object-oriented programming (OOP
 * I got request to change some content in both issues which, I elaborate in my [contribution.md](https://github.com/nic-dgl104-winter-2024/rrj-BasranS/blob/main/CONTRIBUTING.md) file.
 * Then, I commit and push my work into Github.
 
+----
+----
+----
+
+## Week 13 (WEEK OF APRIL 1)
+
+#### *NO CLASS*
+
+----
+----
+----
+
+## Week 14 (WEEK OF APRIL 8)
+
 ### Reflection on community code Project
 
 Taking part in Contribution of the open source projects on GitHub was completely new to me and initially it is hard to understand the concept of how it works, but then, with every week's activities and content, I learned a lot from this project. Starting up with reading the content of every week, watching tutorial works wonders to work upon the project. I think contributing means understanding the problem you want to help with and doing some research to find solutions. With this, I gain knowledge regarding forking, cloning, branching, pull request, project management and much more. I believe this whole process is so rewarding and enjoyable as, when we dive deep into it, there is a lot more to get.
