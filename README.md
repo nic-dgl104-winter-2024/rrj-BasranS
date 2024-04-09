@@ -445,6 +445,7 @@ for project, search a issue and all that things.
 ## References
 
 Project Repostory - [Storybook](https://github.com/storybookjs/storybook)
+
 ----
 ----
 ----
@@ -509,11 +510,16 @@ I choose javascript and it Partially capable of object-oriented programming (OOP
 
 ### Reflection on community code Project
 
-Taking part in Contribution of the open source projects on GitHub was completely new to me and initially it is hard to understand the concept of how it works, but then, with every week's activities and content, I learned a lot from this project. Starting up with reading the content of every week, watching tutorial works wonders to work upon the project. I think contributing means understanding the problem you want to help with and doing some research to find solutions. With this, I gain knowledge regarding forking, cloning, branching, pull request and much more. I believe this whole process is so rewarding and enjoyable as, when we dive deep into it, there is a lot more to get.
+Taking part in Contribution of the open source projects on GitHub was completely new to me and initially it is hard to understand the concept of how it works, but then, with every week's activities and content, I learned a lot from this project. Starting up with reading the content of every week, watching tutorial works wonders to work upon the project. I think contributing means understanding the problem you want to help with and doing some research to find solutions. With this, I gain knowledge regarding forking, cloning, branching, pull request, project management and much more. I believe this whole process is so rewarding and enjoyable as, when we dive deep into it, there is a lot more to get.
 
 In community code part 1, I was totally confused and nervous about picking a problem for the community project, but the step-by-step instructions helped me understand what to do. I experienced growth in my learning of how to find good sources and include them in my work correctly. The filters for labels are really helpful to select a desired issue for working. I have seen improvement in my overall development in every aspect, not only the problem-solving but in reasearch as well as Decision-making skills. I learned about a completely new concept and do research on it for my issue in this part which is compodoc documentation. I want to do some practical work using this to get more information regarding this topic.
 
-Talking about community code part 2, I learned about different pattern designs. Also, I contribute for one of them to give some information on it, as a part of one of the issue. This part is fascinating and rewarding as well. Getting feedback on work from peers specially to make the work more efficient is my favourite part here.
+Talking about community code part 2, I learned about different pattern designs. Also, I contribute for one of them to give some information on it, as a part of one of the issue. This part is fascinating and rewarding as well. Getting feedback on work from peers specially to make the work more efficient is my favourite part here. Also, I learn about singleton and react-native while working on the solution for the issue of this part. React-native is a language with which, I am totally unfamiliar but, I research a lot to gain some useful information regarding it and work a lot to know how it is used for singleton pattern. I believe it is the best approach to gain some knowledge of a topic by writing it down and presenting others which, I usually do for getting insight of the concept as, I love to write.
+
+
+### Reflection on Research and Reflection Journal
+
+I learn about the importance of a informative and properly structured with clear content journal from this project. The Reflection journal makes the process of understanding of this project easier as it contains all the content in an organized way so that, I can analyse my work and knows where, I am lacking. Furthermore, I have come to understand the significance of recording work while simultaneously accomplishing tasks.
 
 
 
