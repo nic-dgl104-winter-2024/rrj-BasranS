@@ -314,7 +314,13 @@ For the issue "Write definition of Strategy pattern in README.md," I need to add
    * Remove the issue link from readme file.
    * Change the structure in the components section.
 * I did the changes and commit and push the work to Github.
-  
+
+ ### Reviews to others Work
+
+1. jaskaransingh9990 - [Add defination of Strategy pattern #84](https://github.com/nic-dgl104-winter-2024/pattern-library/pull/84)
+2. mrsaif888 - [Contrast functional patterns vs. OOP design patterns in README.md #27 #92](https://github.com/nic-dgl104-winter-2024/pattern-library/pull/92)
+3. Bhoomi3637 - [Add Java implementation for Observer pattern #35 #80](https://github.com/nic-dgl104-winter-2024/pattern-library/pull/80)
+4. AditiVatish - [Add Java implementation for Observer pattern #35 #81](https://github.com/nic-dgl104-winter-2024/pattern-library/pull/81)
 ----
 ----
 
