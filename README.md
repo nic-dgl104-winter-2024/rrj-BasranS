@@ -29,6 +29,14 @@
 
 5. Week 12
    - Activity 1 -  Community Code assignment links
+
+6. Week 13
+   - No Class
+
+7. Week 14
+   - Reflection on Community code project
+   - Reflection on Research and Reflection Journal
+     
 ----
 ----
 
