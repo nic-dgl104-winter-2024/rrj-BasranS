@@ -499,12 +499,19 @@ I choose javascript and it Partially capable of object-oriented programming (OOP
 
 ### Community code assignment links - part two
 
-* I choose an issue to work upon and request to get assigned to work upon these issues [Add React Native implementation for Singleton pattern #8](https://github.com/nic-dgl104-winter-2024/pattern-library/issues/8) and [Write definition of Template pattern in README.md #66
+* I choose the issues to work upon and request to get assigned to work upon these issues [Add React Native implementation for Singleton pattern #8](https://github.com/nic-dgl104-winter-2024/pattern-library/issues/8) and [Write definition of Template pattern in README.md #66
 ](https://github.com/nic-dgl104-winter-2024/pattern-library/issues/66).
 * Then, I forked and cloned the project into my machine.
 * After that, I establish a branch with the names ["react_native_development"](https://github.com/BasranS/pattern-library/tree/react_native_development) and ["template_pattern_docs"](https://github.com/BasranS/pattern-library/tree/template_pattern_docs).
 * Subsequently I made two files for both issue.
 * I got request to change some content in both issues which, I elaborate in my [contribution.md](https://github.com/nic-dgl104-winter-2024/rrj-BasranS/blob/main/CONTRIBUTING.md) file.
 * Then, I commit and push my work into Github.
+
+### Reflection on community code Project
+
+Taking part in Contribution of the open source projects on GitHub was completely new to me and initially it is hard to understand the concept of how it works, but then, with every week's activities and content, I learned a lot from this project. I think contributing means understanding the problem you want to help with and doing some research to find solutions. 
+
+
+
 
 
