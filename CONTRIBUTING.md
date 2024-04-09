@@ -81,27 +81,31 @@ To contribute to an open-source project of community code part 1:
 * Also, I made a contribution file under name ["compodoc_contribtuion.md"](https://github.com/BasranS/storybook/blob/compodoc_info/Compodoc_contribution.md) to describe my contribution for this work.
 * Then I commit and push all the content to GitHub.
 
-### Code Review and Outcome
+### ✨ Code Review and Outcome
 
 The documentation got reviewed by Baljit Singh, and he told me to add a section in my readme which describes some "Real-world examples" 
 who uses compodoc documentation for the Angular projects which , I added now.
 
-### Reflection on Success
+### ✨ Reflection on Success
 
 Upon successful completion of this issue, I gained some useful knowledge regarding a completely new topic Although, this is a documentation issue but, this needs a lot of research as, this topic is completely new to me and requires time to work upon. Also, I learned the importance of clear documentation. This experience emphasized the significance of seeking clarification, and advocating for change to drive positive outcomes and enhance the user experience.
 
-### Next Steps
+### ✨ Next Steps
 
 As I gain knowledge on this topic, my curiosity drives me to seek further understanding through additional research. Furthermore, I aim to put it into practice to observe its practical outcomes firsthand.
 
 
-### Project Contribution Links
+### ✨ References
 
-🔗 Project link  - [Storybook](https://github.com/storybookjs/storybook)
+🔗 Vincent Ogloblinsky, "Compodoc: Documentation Tool for Angular 2+ Applications," ( 9 November, 2016), [Medium](https://medium.com/vincent-ogloblinsky/compodoc-documentation-tool-for-angular-2-applications-44ec650e01a8)
 
-🔗 Forked Repository - [Storybook](https://github.com/BasranS/storybook/tree/compodoc_info)
+🔗 Compodoc README, (n.d.), [GitHub](https://github.com/compodoc/compodoc/blob/master/README.md)
 
-🔗 Issue - [More clarity on what including compodoc does?](https://github.com/storybookjs/storybook/issues/24944)
+🔗 "How to generate documentation in Angular Compodoc," December 31, 2023, [Cloudhadoop](https://www.cloudhadoop.com/angular-documentation-compodoc)
+
+🔗 Vincent Ogloblinsky, "Compodoc: The missing documentation tool for your Angular, Nest, Stencil application," (n.d.), [Compodoc](https://compodoc.app/guides/getting-started.html)
+
+🔗 "Set up Compodoc for Storybook on Nx," (n.d.) [NX doc](https://nx.dev/recipes/storybook/angular-storybook-compodoc)
 
 
 -----
@@ -291,6 +295,24 @@ Also, I got bunch of reviews from my last pull request regarding some changes su
 
 Through implementing the Singleton pattern, I have learned how to ensure only one instance of a class exists in the React Native application. This experience has also taught you about effective code organization, instance management, event handling, and the reflection on design pattern choices for future projects.
 
+### ✨ Reference
+
+🔗 Singleton Pattern - Design Patterns. (2019, February 21). https://www.youtube.com/watch?v=sJ-c3BA-Ypo
+
+🔗 React Native Design Patterns tutorial. (2019, Aug 12). https://www.youtube.com/playlist?list=PLTgRMOcmRb3M2cPN_6iDDOYn8FONTkc3N
+
+🔗 How to use Singleton in react native?.(2019, Mar 2). https://www.youtube.com/watch?v=rFy2hAq5xm4&t=140s
+
+🔗 react-native-best-way-to-create-singleton-pattern.(n.d.). https://stackoverflow.com/questions/44023879
+
+🔗 Using the Singleton Pattern in React. (2024 ,Mar 17). https://dev.to/antonzo/using-singleton-pattern-in-react-268n
+
+🔗 React Fundamentals. (n.d.). https://reactnative.dev/docs/intro-react
+
+🔗 Singleton Method Design Pattern in JavaScript. (n.d.). https://www.geeksforgeeks.org/singleton-design-pattern-introduction/
+
+🔗 Mastering the Singleton Pattern. (2023, Jan 15). https://medium.com/@fakhrijalleli/mastering-the-singleton-pattern-e8f58395cae1
+
 -----
 -----
 
@@ -304,7 +326,7 @@ Through implementing the Singleton pattern, I have learned how to ensure only on
 
 For the issue "Write definition of Strategy pattern in README.md," I need to add a section to the README.md file of the "DGL 104 Pattern Library" project. This section should provide a clear and concise definition of the Strategy pattern, including its purpose, benefits, how it works, implementation guidelines, and example use cases. Ensure that the information is easy to understand and relevant for other developers using the library. Once added, commit the changes to the repository.
 
-### ✨ Work Done
+### ✅ Work Done
 
 * I choose this issue, forked and cloneed it into my machine.
 * Next, I made a separate branch for working on this specific problem called "template_pattern_docs."
@@ -315,11 +337,11 @@ For the issue "Write definition of Strategy pattern in README.md," I need to add
    * Change the structure in the components section.
 * I did the changes and commit and push the work to Github.
 
-### Code Review and Outcomes
+### ✨ Code Review and Outcomes
 
 The work also got reviewed by Bhoomi and she do not have any suggestion on the work. She found it well written.
 
- ### Reviews to others Work
+ ### ✨ Reviews to others Work
 
 1. jaskaransingh9990 - [Add defination of Strategy pattern #84](https://github.com/nic-dgl104-winter-2024/pattern-library/pull/84)
 2. mrsaif888 - [Contrast functional patterns vs. OOP design patterns in README.md #27 #92](https://github.com/nic-dgl104-winter-2024/pattern-library/pull/92)
@@ -329,15 +351,12 @@ The work also got reviewed by Bhoomi and she do not have any suggestion on the w
 ----
 ----
 
-## References
+### ✨ References
 
-🔗 Project link - [Pattern Library](https://github.com/nic-dgl104-winter-2024/pattern-library)
 
-🔗 Forked Repository for Issue 1 - [Pattern Library](https://github.com/BasranS/pattern-library/tree/react_native_development)
+🔗 Refactoring Guru. (n.d.). Template Method Design Pattern. https://refactoring.guru/design-patterns/template-method
 
-🔗 Forked Repository for Issue 2 - [Pattern Library](https://github.com/BasranS/pattern-library/tree/template_pattern_doc)
+🔗 GeeksforGeeks. (n.d.). Template Method Design Pattern. https://www.geeksforgeeks.orgtemplate-method-design-pattern/
 
-🔗 Issue 1 - [Add React Native Implementation for Singleton Pattern #8](https://github.com/nic-dgl104-winter-2024/pattern-library/issues/8)
-
-🔗 Issue 2 - [Write definition of Template pattern in README.md](https://github.com/nic-dgl104-winter-2024/pattern-library/issues/66)
+🔗 Tutorialspoint. (n.d.). Template Method Design Pattern. https://www.tutorialspoint.com/design_pattern/template_pattern.html
 
