@@ -516,6 +516,8 @@ I choose javascript and it Partially capable of object-oriented programming (OOP
 * I got request to change some content in both issues which, I elaborate in my [contribution.md](https://github.com/nic-dgl104-winter-2024/rrj-BasranS/blob/main/CONTRIBUTING.md) file.
 * Then, I commit and push my work into Github.
 
+### *I create a new contribution file which elaborate our group work as we got a feedback on the pull request to drop it from the pull request work and add in Reflection Journal*
+  
 ----
 ----
 ----
